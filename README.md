@@ -6,7 +6,7 @@ hallo
 
 中文名|拼音名|英文名
 -----|-----|-----
-褚昱川|Chu Yuchuan|Daniel
+[褚昱川](https://github.com/Yuudachi530)|Chu Yuchuan|Daniel
 叶琚琏|Ye Julian|Julian
 许丽杉|Xu Lishan|Lisa
 曾爱|Zeng Ai|Shirley
