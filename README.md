@@ -6,7 +6,7 @@ hallo
 
 中文名|拼音名|英文名
 -----|-----|-----
-[褚昱川](https://github.com/Yuudachi530)|Chu Yuchuan|Daniel
+褚昱川|Chu Yuchuan|Daniel
 叶琚琏|Ye Julian|Julian
 许丽杉|Xu Lishan|Lisa
 曾爱|Zeng Ai|Shirley
@@ -17,6 +17,6 @@ hallo
 刘荆琦|Liu Jingqi|James
 张乐天|Zhang Letian|Andy
 杨天睿|Yang Tianrui|Cathy
-单子亨|Shan Ziheng|Brian
-方颢羽|Haoyu Fang|Harry
+[单子亨](https://github.com/BrianShan974)|Shan Ziheng|Brian
+[方颢羽](https://github.com/haoyuF996)|Haoyu Fang|Harry
 靳一丁|Jin Yiding|Jack
