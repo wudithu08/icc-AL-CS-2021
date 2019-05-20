@@ -12,11 +12,11 @@ hallo
 曾爱|Zeng Ai|Shirley
 宣恺之|Xuan Kai Zhi|Wilbur
 郭唯笑|Guo Weixiao|Vivien
-[蒋伯源](https://github.com/jby0107)|Jiang Boyuan|Nico
+蒋伯源|Jiang Boyuan|Nico
 邢毓麟|XING YULIN|Tim
 刘荆琦|Liu Jingqi|James
 [张乐天](https://github.com/Loskiz)|Zhang Letian|Andy
 杨天睿|Yang Tianrui|Cathy
-[*__单子亨__*](https://github.com/BrianShan974)|Shan Ziheng|Brian
+[*__单子亨:shit:__*](https://github.com/BrianShan974)|Shan Ziheng|Brian
 [_**方颢羽**_](https://github.com/haoyuF996)|Haoyu Fang|Harry
 [靳一丁](https://github.com/)|Jin Yiding|Jack
