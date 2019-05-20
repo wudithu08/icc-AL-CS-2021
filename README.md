@@ -17,6 +17,6 @@ hallo
 刘荆琦|Liu Jingqi|James
 张乐天|Zhang Letian|Andy
 杨天睿|Yang Tianrui|Cathy
-[单子亨](https://github.com/BrianShan974)|Shan Ziheng|Brian
+[*__单子亨__*](https://github.com/BrianShan974)|Shan Ziheng|Brian
 [**方颢羽**](https://github.com/haoyuF996)|Haoyu Fang|Harry
 靳一丁|Jin Yiding|Jack
