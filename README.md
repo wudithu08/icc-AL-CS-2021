@@ -12,7 +12,7 @@ hallo
 曾爱|Zeng Ai|Shirley
 宣恺之|Xuan Kai Zhi|Wilbur
 郭唯笑|Guo Weixiao|Vivien
-蒋伯源|Jiang Boyuan|Nico
+[蒋伯源](https://github.com/jby0107)|Jiang Boyuan|Nico
 邢毓麟|XING YULIN|Tim
 刘荆琦|Liu Jingqi|James
 [张乐天](https://github.com/Loskiz)|Zhang Letian|Andy
