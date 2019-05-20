@@ -19,4 +19,4 @@ hallo
 杨天睿|Yang Tianrui|Cathy
 [*__单子亨__*](https://github.com/BrianShan974)|Shan Ziheng|Brian
 [_**方颢羽**_](https://github.com/haoyuF996)|Haoyu Fang|Harry
-靳一丁|Jin Yiding|Jack
+[靳一丁](https://github.com/)|Jin Yiding|Jack
