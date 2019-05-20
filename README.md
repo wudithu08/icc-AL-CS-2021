@@ -7,7 +7,7 @@ hallo
 中文名|拼音名|英文名
 -----|-----|-----
 [褚昱川](https://github.com/Yuudachi530)|Chu Yuchuan|Daniel
-[叶琚琏]|Ye Julian|Julian
+[叶琚琏](https://github.com/GodspeedyJulian)|Ye Julian|Julian
 [许丽杉](https://github.com/ZeroxAlone)|Xu Lishan|Lisa
 [曾爱](https://github.com/ShirleyAiko)|Zeng Ai|Shirley
 [宣恺之](https://github.com/WilburXuan)|Xuan Kai Zhi|Wilbur
