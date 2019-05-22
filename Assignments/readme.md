@@ -12,7 +12,7 @@
     * screenshots of 2. core elements of programs,  with all green ticks which represent you have watched and done the exericses.
     * code of problem set 1  
 
-[Daniel](https://github.com/Yuudachi530/Watchpoint-0522), [Julian](https://github.com/GodspeedyJulian/week1-homework), Lisa, [Shirley](https://github.com/ShirleyAiko/S2), [Wilbur](https://github.com/WilburXuan/Computer-Science-Homework.git), [Vivien](https://github.com/WeixiaoG/Assignment), Nico, Tim, James, [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/2019-5-20), [Cathy](https://github.com/CathyYang1118/5.22), Brian, [:trollface:_Harry_](https://github.com/haoyuF996), [Jack](https://github.com/jyd1222/hello-world/tree/master)
+[Daniel](https://github.com/Yuudachi530/Watchpoint-0522), [Julian](https://github.com/GodspeedyJulian/week1-homework), [Lisa](https://github.com/ZeroxAlone/Homework190520), [Shirley](https://github.com/ShirleyAiko/S2), [Wilbur](https://github.com/WilburXuan/Computer-Science-Homework.git), [Vivien](https://github.com/WeixiaoG/Assignment), Nico, Tim, James, [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/2019-5-20), [Cathy](https://github.com/CathyYang1118/5.22), Brian, [:trollface:_Harry_](https://github.com/haoyuF996), [Jack](https://github.com/jyd1222/hello-world/tree/master)
 
 
 
