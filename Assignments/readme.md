@@ -12,7 +12,7 @@
     * screenshots of 2. core elements of programs,  with all green ticks which represent you have watched and done the exericses.
     * code of problem set 1  
 
-Daniel, Julian, Lisa, [Shirley](https://github.com/ShirleyAiko/S2), [Wilbur](https://github.com/WilburXuan/Computer-Science-Homework.git), Vivien, Nico, Tim, James, Andy, Cathy, Brian, [:trollface:_Harry_](https://github.com/haoyuF996), Jack
+Daniel, Julian, Lisa, [Shirley](https://github.com/ShirleyAiko/S2), [Wilbur](https://github.com/WilburXuan/Computer-Science-Homework.git), Vivien, Nico, Tim, James, Andy, Cathy, Brian, [:trollface:_Harry_](https://github.com/haoyuF996), [Jack](https://github.com/jyd1222/hello-world/tree/master)
 
 
 
