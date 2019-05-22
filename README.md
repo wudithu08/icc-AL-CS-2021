@@ -11,7 +11,7 @@ hallo
 [许丽杉](https://github.com/ZeroxAlone)|Xu Lishan|Lisa
 [曾爱](https://github.com/ShirleyAiko)|Zeng Ai|Shirley
 [宣恺之](https://github.com/WilburXuan)|Xuan Kai Zhi|Wilbur
-[郭唯笑](https://github.com/WeixiaoG/Assignment)|Guo Weixiao|Vivien
+[郭唯笑](https://github.com/WeixiaoG)|Guo Weixiao|Vivien
 [蒋伯源](https://github.com/jby0107)|Jiang Boyuan|Nico
 邢毓麟|XING YULIN|Tim
 [刘荆琦](https://github.com/JamessssLiu)|Liu Jingqi|James
