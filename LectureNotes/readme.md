@@ -17,7 +17,7 @@ What we have talked about in the class.
 
 #### May 23 2019 Thursday, by Haoyu Fang
 
-Please write in the format of list what we have talked about in the class. 
+Daniel, Julian, Lisa, Shirley, Wilbur, Vivien, Nico, Tim, James, Andy, Cathy, Brian, Harry, Jack 
 
 
 ## June 2019 
