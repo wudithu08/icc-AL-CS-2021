@@ -17,7 +17,7 @@ What we have talked about in the class.
 
 ### Week 2
 #### May 23 2019 Thursday, by Julian Ye
-### Please upload your notes
+### contributor
 
 Daniel, Julian, Lisa, Shirley, Wilbur, Vivien, Nico, Tim, James, Andy, Cathy, Brian, Harry, Jack 
 
