@@ -17,8 +17,44 @@ What we have talked about in the class.
 
 ### Week 2
 #### May 23 2019 Thursday, by Julian Ye
-### contributor
+1.	What are data structures?
+		ex. List
+		how to organise the data
+2.	Fundamental Function:
+		performs calculations and remembers results
+		calculate speed: a billion calculations per second
+		easy calculations are not enough
+3.	Turing halting problem: impossible
+		Computer cannot solve every single problem
+4.	declarative: telling fact
+		imperative: recipe or “how to”
+5.	how to write ”close enough”  判断close enough 不是相等
+		1.	difference reach a particular value, instead of “equal”(infinity)
+		2.	BS .1=.5 ; BS .01= .025
+		3.	float = int + decimal digit
+6.	flow of control: not in normal sequence
+7.	fixed programme and stored programme computer
+		only one function and combined-function computer
+8.	CU + ALU = CPU, Memory, Input, Output 
+英语：words
+语言：number string simple operator
+9.	primitive: smallest unit that cannot be separated again
+		add, and, or, not, logic sequence…
+10.	syntax: grammar, common and easily caught
+		static semantics: find this kind of error before running the programme
+		semantics: do not meet my demand to do sth. but syntax and static semantics are correct
+    --> Program crashes 
+        Run forever
+        Give answer but different than expected
+11.	definitions: define something ex. a=1
+		commands: ex. print something
+12.	Nonetype
+		list1=[2,3,1]
+		list2=list1.append(1)
+		print(list2)
+		>>>None
 
+### contributor
 Daniel, Julian, Lisa, Shirley, Wilbur, Vivien, Nico, Tim, James, Andy, Cathy, Brian, Harry, Jack 
 
 
