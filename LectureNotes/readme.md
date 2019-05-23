@@ -15,7 +15,9 @@ What we have talked about in the class.
 
 3.Created a account on edX and joined the course of MIT to learn python. 
 
-#### May 23 2019 Thursday, by Haoyu Fang
+### Week 2
+#### May 23 2019 Thursday, by Julian Ye
+### Please upload your notes
 
 Daniel, Julian, Lisa, Shirley, Wilbur, Vivien, Nico, Tim, James, Andy, Cathy, Brian, Harry, Jack 
 
