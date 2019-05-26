@@ -22,7 +22,7 @@
     * code of complete program experience polysum + problem set 2  
  * programmig exercise: modulo-11 method of calculating a check digit. reference:  https://www.activebarcode.com/codes/checkdigit/modulo11.html  submit your code to github and link to the below:
 
-Daniel, Julian, Lisa, Shirley, Wilbur, Vivien, Nico, Tim, James, Andy, Cathy, Brian, [:trollface:_Harry_](https://github.com/haoyuF996/AL-cs-homework-May-23-Monday-2019), Jack
+Daniel, [Julian](https://github.com/GodspeedyJulian/week2/tree/master), Lisa, Shirley, Wilbur, Vivien, Nico, Tim, James, Andy, Cathy, Brian, [:trollface:_Harry_](https://github.com/haoyuF996/AL-cs-homework-May-23-Monday-2019), Jack
 
 ## June 2019
 
