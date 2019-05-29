@@ -24,6 +24,14 @@
 
 Daniel, [Julian](https://github.com/GodspeedyJulian/week2/tree/master), [Lisa](https://github.com/ZeroxAlone/homework190523), [Shirley](https://github.com/ShirleyAiko/S2), Wilbur, [Vivien](https://github.com/WeixiaoG/Assignment), [Nico](https://github.com/jby0107/Homework-5.28), [Tim](https://github.com/YulinXing/friendly-octo-robot), James, [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/May%2023%20Thursday%202019), [Cathy](https://github.com/CathyYang1118/5.22/tree/5.27-homework), [__*:trollface:Brian*__](https://github.com/BrianShan974/Hello-World/tree/assignment2), [**:trollface:Harry**](https://github.com/haoyuF996/AL-cs-homework-May-23-Monday-2019), [Jack](https://github.com/jyd1222/hello-world/tree/master)
 
+### Week 2
+#### May 30 Monday 2019
+
+* 2019-05-30 homework:
+  * an experiment report of function and recursion, with problem - algorithm - code - reflection/summary. Must do: fractorial, power, sum, hanoi, fibonacci, Palindrome.   Optional: your own idea.
+  * learn week 3 of 2018 MIT 600 course: 5. Tuples and lists:  https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2018/course/#block-v1:MITx+6.00.1x+2T2018+type@chapter+block@fc8f42302c644118adfcfa720f9f403e 
+    * screenshots of 5. Tuples and lists, with all green ticks which represent you have watched and done the exericses.
+
 ## June 2019
 
 
