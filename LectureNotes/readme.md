@@ -57,16 +57,17 @@ What we have talked about in the class.
 ## June 2019 
 ### Week 3
 #### May 30 2019 Thursday, by Lishan Xu
-"""
 1.ISBN-11 最后一位为校验位
 
 	Weight权重
 	
 	10 9 8 7 6 5 4 3 2
 	 6 9 8 7 5 1 2 3 4 （）
-2.考试时 (comment) Declaration
-"# x y z of type integer/ string/ …"
+
+2.考试时 (comment) Declaration: # x y z of type integer/ string/ …
+
 3.逻辑错误
+
 	先判断/执行
 	while <condition>:
 		code
@@ -75,11 +76,12 @@ What we have talked about in the class.
 		if <condition>:
 			Break
 	Trace table
+	
 4.Bisection二分法: 最多次数log2N+1
-5.Vocabulary
-indentation缩进 concatenate合并 slicing切片 enumeration枚举
+
+5.Vocabulary: indentation缩进 concatenate合并 slicing切片 enumeration枚举
+
 6.Factorial example
-"""
 
 ### contributor
 Daniel, Julian, Lisa, Shirley, Wilbur, Vivien, Nico, Tim, James, Andy, Cathy, Brian, Harry, Jack 
