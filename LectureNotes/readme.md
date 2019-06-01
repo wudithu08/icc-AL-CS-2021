@@ -54,19 +54,18 @@ What we have talked about in the class.
 		print(list2)
 		>>>None
 		
-## June 2019 
 ### Week 3
 #### May 30 2019 Thursday, by Lishan Xu
-1.ISBN-11 最后一位为校验位
+1.ISBN-11 最后一位为校验位:
 
 	Weight权重
 	
 	10 9 8 7 6 5 4 3 2
 	 6 9 8 7 5 1 2 3 4 （）
 
-2.考试时 (comment) Declaration: # x y z of type integer/ string/ …
+2.Declaration(comment): # x y z of type integer/ string/ …
 
-3.逻辑错误
+3.Logic mistake:
 
 	先判断/执行
 	while <condition>:
@@ -86,7 +85,7 @@ What we have talked about in the class.
 ### contributor
 Daniel, Julian, Lisa, Shirley, Wilbur, Vivien, Nico, Tim, James, Andy, Cathy, Brian, Harry, Jack 
 
-
+## June 2019 
 
 
 
