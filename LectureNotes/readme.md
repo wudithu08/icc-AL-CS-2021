@@ -62,7 +62,7 @@ What we have talked about in the class.
 	10 9 8 7 6 5 4 3 2
 	 6 9 8 7 5 1 2 3 4 （）
 2.考试时 (comment) Declaration
-# x y z of type integer/ string/ …
+“# x y z of type integer/ string/ …”
 3.逻辑错误
 	先判断/执行
 	while <condition>:
