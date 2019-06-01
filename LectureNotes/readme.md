@@ -81,7 +81,7 @@ What we have talked about in the class.
 
 5.Vocabulary: indentation缩进 concatenate合并 slicing切片 enumeration枚举
 
-6.Factorial example
+6.Factorial example: [eg.](https://github.com/ZeroxAlone/homework190523/blob/master/%E7%AC%94%E8%AE%B0.py)
 
 ### contributor
 Daniel, Julian, Lisa, Shirley, Wilbur, Vivien, Nico, Tim, James, Andy, Cathy, Brian, Harry, Jack 
