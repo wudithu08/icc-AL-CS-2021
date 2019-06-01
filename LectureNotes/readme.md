@@ -53,6 +53,8 @@ What we have talked about in the class.
 		list2=list1.append(1)
 		print(list2)
 		>>>None
+### Week 2
+#### May 30 2019 Thursday, by Lishan Xu
 
 ### contributor
 Daniel, Julian, Lisa, Shirley, Wilbur, Vivien, Nico, Tim, James, Andy, Cathy, Brian, Harry, Jack 
