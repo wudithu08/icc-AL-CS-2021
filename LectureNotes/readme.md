@@ -74,7 +74,7 @@ What we have talked about in the class.
 		code
 		if <condition>:
 			Break
-  Helping tool: Trace table
+Helping tool: Trace table
 	
 4.Bisection二分法: 最多次数log2N+1
 
