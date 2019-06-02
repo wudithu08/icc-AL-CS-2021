@@ -32,7 +32,7 @@
     *  submit a report in pdf version, put screenshots of code and results in the report file. 
   * learn week 3 of 2018 MIT 600 course: 5. Tuples and lists:  https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2018/course/#block-v1:MITx+6.00.1x+2T2018+type@chapter+block@fc8f42302c644118adfcfa720f9f403e 
     * screenshots of 5. Tuples and lists, with all green ticks which represent you have watched and done the exericses.
-
+Daniel, Julian, Lisa, Shirley, Wilbur, Vivien, Nico, Tim, James, Andy, Cathy, *:trollface:Brian*, **:trollface:Harry**, Jack
 ## June 2019
 
 
