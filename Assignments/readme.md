@@ -35,6 +35,13 @@
 
 Daniel, [Julian](https://github.com/GodspeedyJulian/Week-3-1), [Lisa](https://github.com/ZeroxAlone/homework190530), Shirley, Wilbur, Vivien, [Nico](https://github.com/jby0107/Homework/tree/hw-5.30), Tim, James, [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/May%2030%20Monday%202019), Cathy, *:trollface:Brian*, **:trollface:Harry**, Jack
 ## June 2019
-
+#### June 3 Monday 2019
+* 2019-06-03 homework:
+ * 1D array exercise: implement bubble sort algorithm, submit your code and screenshots of the running results. 
+ * 2D array exercise: complete the code template -- exercise.py, to create the following images. see materials here:
+ * learn week 3 of 2018 MIT 600 course: 6. dictionaries:  https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2018/course/#block-v1:MITx+6.00.1x+2T2018+type@chapter+block@fc8f42302c644118adfcfa720f9f403e  with screenshots.
+ * do problem set 3 of week 3 of 2018 MIT 600 course. submit your code and result screenshots.
+ * enroll in the coming 2019 MIT online course, finish week 1 of the new course: https://www.edx.org/course?search_query=introduction-to-computer-science-and-programming-using-python-2%C2%A0+ , submit everything in green ticks. 
+ 
 
 ## July 2019
