@@ -45,4 +45,14 @@ Daniel, [Julian](https://github.com/GodspeedyJulian/Week-3-1), [Lisa](https://gi
 
 Daniel, [Julian](https://github.com/GodspeedyJulian/4/blob/master/README.md), [Lisa](https://github.com/ZeroxAlone/190603), Shirley, Wilbur, Vivien, [Nico](https://github.com/jby0107/Homework/tree/hw-6.3), Tim, James, Andy, Cathy,Brian,Harry,Jack
 
+#### June 10 Monday 2019
+* 2019-06-10 homework:
+  * Print the worksheet1 and worksheet2 by yourself, finish (write on paper) all the questions on these two worksheets and submit the paper version to me( office 411) before June 17th 8:00am. You need to read the book chapter 11 and chapter 13 very carefully! 
+  * In class practice material here:
+    * homework practice paper
+    * answer to June 3 1D array and 2D array homework
+    * in class worksheet chapter 11  - pdf version
+    * sequentail search and binary search 
+    
+
 ## July 2019
