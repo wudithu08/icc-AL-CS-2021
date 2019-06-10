@@ -47,11 +47,11 @@ Daniel, [Julian](https://github.com/GodspeedyJulian/4/blob/master/README.md), [L
 
 #### June 10 Monday 2019
 * 2019-06-10 homework:
-  * Print the [worksheet1](./materials/chapter 11+13-wksheet 1.pdf) and [worksheet2]((./materials/chapter 11+13-wksheet 2.pdf) ) by yourself, finish (write on paper) all the questions on these two worksheets and submit the paper version to me( office 411) before June 17th 8:00am. You need to read the book chapter 11 and chapter 13 very carefully! 
+  * Print the [worksheet1](./materials/chapter11+13-wksheet1.pdf) and [worksheet2]((./materials/chapter11+13-wksheet2.pdf) ) by yourself, finish (write on paper) all the questions on these two worksheets and submit the paper version to me( office 411) before June 17th 8:00am. You need to read the book chapter 11 and chapter 13 very carefully! 
   * In class practice material here:
-    * [homework practice paper](./materials/MIT course week1-2 - quiz paper + MS.pdf)
+    * [homework practice paper](./materials/MITcourseWeek1-2quizpaper+MS.pdf)
     * answer to June 3 1D array and 2D array homework
-    * in class worksheet chapter 11  - [pdf version](./materials/Practice Worksheet1-paper.pdf)
+    * in class worksheet chapter 11  - [pdf version](./materials/PracticeWorksheet1-paper.pdf)
     * [sequentail search](http://interactivepython.org/runestone/static/pythonds/SortSearch/TheSequentialSearch.html) and [binary search](http://interactivepython.org/runestone/static/pythonds/SortSearch/TheBinarySearch.html) 
     
 
