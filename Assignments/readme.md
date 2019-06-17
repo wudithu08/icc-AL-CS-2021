@@ -52,7 +52,7 @@ Daniel, [Julian](https://github.com/GodspeedyJulian/4/blob/master/README.md), [L
     * [homework practice paper](./materials/MITcourseWeek1-2quizpaper+MS.pdf)
     * [answer to June 3 1D array and 2D array homework](./materials/exercise-ans.py)
     * in class worksheet chapter 11  - [pdf version](./materials/PracticeWorksheet1-paper.pdf)
-    * [sequentail search](http://interactivepython.org/runestone/static/pythonds/SortSearch/TheSequentialSearch.html) and [binary search](http://interactivepython.org/runestone/static/pythonds/SortSearch/TheBinarySearch.html) 
+    * [sequential search](http://interactivepython.org/runestone/static/pythonds/SortSearch/TheSequentialSearch.html) and [binary search](http://interactivepython.org/runestone/static/pythonds/SortSearch/TheBinarySearch.html) 
     
 
 ## July 2019
