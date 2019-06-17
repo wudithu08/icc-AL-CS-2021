@@ -52,7 +52,13 @@ Daniel, [Julian](https://github.com/GodspeedyJulian/4/blob/master/README.md), [L
     * [homework practice paper](./materials/MITcourseWeek1-2quizpaper+MS.pdf)
     * [answer to June 3 1D array and 2D array homework](./materials/exercise-ans.py)
     * in class worksheet chapter 11  - [pdf version](./materials/PracticeWorksheet1-paper.pdf)
-    * [sequential search](http://interactivepython.org/runestone/static/pythonds/SortSearch/TheSequentialSearch.html) and [binary search](http://interactivepython.org/runestone/static/pythonds/SortSearch/TheBinarySearch.html) 
-    
 
+    
+### June 17 Monday 2019
+* 2019-06-17 homework:
+    * Project work: “which words in this book are not in the expected vocabulary at this level?”
+      * leanring materials: http://openbookproject.net/thinkcs/python/english3e/list_algorithms.html, from 14.3-14.5. Please read, understand the above materials, download the book files from the beginning of the above link. 
+      * You are expected to write python code to complete the whole project, write a 
+      * About visualization: please learn about [matplotlib](https://matplotlib.org/) library in python ( if you use anaconda, you do not need to install, if you use other python IDE, like idle, you need to [install this package](https://solarianprogrammer.com/2017/02/25/install-numpy-scipy-matplotlib-python-3-windows/)).    Here is a good book for you to learn about matplotlib as well: [Python Crash Course](http://file.allitebooks.com/20160102/Python%20Crash%20Course.pdf)
+      * in class materials: * [sequential search](http://interactivepython.org/runestone/static/pythonds/SortSearch/TheSequentialSearch.html) and [binary search](http://interactivepython.org/runestone/static/pythonds/SortSearch/TheBinarySearch.html) 
 ## July 2019
