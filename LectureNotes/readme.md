@@ -82,6 +82,40 @@ Helping tool: Trace table
 
 6.Factorial example: [eg.](https://github.com/ZeroxAlone/homework190523/blob/master/%E7%AC%94%E8%AE%B0.py)
 
+
+## May 2019 
+### Week 6
+#### June 16 2019 Monday, by Weixiao Guo
+1. The Sequential Search
+   a. What is the sequential search?
+      It is a searching technique. 
+  
+   b. How is it works?
+      When we searching in a list, we need to search the item each by each, starting with the first element. If we run out of  items, we have discovered that the item we were searching for was not present.
+      It can be efficitient to find a not prensent element in an oredered list. If the item we are looking for is present in the list, the chance of it being in any one of the n positions is still the same as before. In an ordered list, we still looking for it untill we find the item beyond it, then we can stop, and say that the item is not present.
+   
+   c. The number of trials
+      If the item is present, we need to try n/2 times in average to find it, or it is not present, we need to take n trials.
+   
+   d. Understand and practice.
+
+ 2. The Binary Search
+    a. What is the binary search?
+       It is also a searching technique which is using a clever comparisons.
+    
+    b. How is it works?
+       Instead of searching the list in sequence, a binary search will start by examining the middle item. If that item is the one we are searching for, we are done. If it is not the correct item, we can use the ordered nature of the list to eliminate half of the remaining items. If the item we are searching for is greater than the middle item, we know that the entire lower half of the list as well as the middle item can be eliminated from further consideration. The item, if it is in the list, must be in the upper half.
+
+     c. The number of trials
+        By finding i in n/(2**i)=1
+	n is the number of items
+	i is the number of comparison
+      
+     d. Understand and practice
+        method:loop&recursion
+	the point of recursion: 明确终止条件 and 自己套用自己
+
+
 ### contributor
 Daniel, Julian, Lisa, Shirley, Wilbur, Vivien, Nico, Tim, James, Andy, Cathy, Brian, Harry, Jack 
 
