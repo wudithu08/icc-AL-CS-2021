@@ -90,8 +90,8 @@ Helping tool: Trace table
    a. What is the sequential search?
       It is a searching technique. 
   
-   b. How is it works?
-      When we searching in a list, we need to search the item each by each, starting with the first element. If we run out of  items, we have discovered that the item we were searching for was not present.
+   b. How it works?
+      We need to search the item each by each, starting with the first element. If we run out of  items, we have discovered that the item we were searching for was not present.
       It can be efficitient to find a not prensent element in an oredered list. If the item we are looking for is present in the list, the chance of it being in any one of the n positions is still the same as before. In an ordered list, we still looking for it untill we find the item beyond it, then we can stop, and say that the item is not present.
    
    c. The number of trials
@@ -103,7 +103,7 @@ Helping tool: Trace table
     a. What is the binary search?
        It is also a searching technique which is using a clever comparisons.
     
-    b. How is it works?
+    b. How it works?
        Instead of searching the list in sequence, a binary search will start by examining the middle item. If that item is the one we are searching for, we are done. If it is not the correct item, we can use the ordered nature of the list to eliminate half of the remaining items. If the item we are searching for is greater than the middle item, we know that the entire lower half of the list as well as the middle item can be eliminated from further consideration. The item, if it is in the list, must be in the upper half.
 
      c. The number of trials
