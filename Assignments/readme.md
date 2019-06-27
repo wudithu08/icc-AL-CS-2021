@@ -33,7 +33,7 @@
   * learn week 3 of 2018 MIT 600 course: 5. Tuples and lists:  https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2018/course/#block-v1:MITx+6.00.1x+2T2018+type@chapter+block@fc8f42302c644118adfcfa720f9f403e 
     * screenshots of 5. Tuples and lists, with all green ticks which represent you have watched and done the exericses.
 
-Daniel, [Julian](https://github.com/GodspeedyJulian/Week-3-1), [Lisa](https://github.com/ZeroxAlone/homework190530), Shirley, Wilbur, Vivien, [Nico](https://github.com/jby0107/Homework/tree/hw-5.30), Tim, James, [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/May%2030%20Monday%202019), Cathy, *:trollface:Brian*, **:trollface:Harry**, Jack
+[Daniel](https://github.com/Yuudachi530/Watchpoint-0601), [Julian](https://github.com/GodspeedyJulian/Week-3-1), [Lisa](https://github.com/ZeroxAlone/homework190530), Shirley, Wilbur, Vivien, [Nico](https://github.com/jby0107/Homework/tree/hw-5.30), Tim, James, [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/May%2030%20Monday%202019), Cathy, *:trollface:Brian*, **:trollface:Harry**, Jack
 ## June 2019
 #### June 3 Monday 2019
 * 2019-06-03 homework:
