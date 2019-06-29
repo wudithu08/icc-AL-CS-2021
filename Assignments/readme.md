@@ -62,6 +62,6 @@
       * About visualization: please learn about [matplotlib](https://matplotlib.org/) library in python ( if you use anaconda, you do not need to install, if you use other python IDE, like idle, you need to [install this package](https://solarianprogrammer.com/2017/02/25/install-numpy-scipy-matplotlib-python-3-windows/)).    Here is a good book for you to learn about matplotlib as well: [Python Crash Course](http://file.allitebooks.com/20160102/Python%20Crash%20Course.pdf)
       * in class materials: [sequential search](http://interactivepython.org/runestone/static/pythonds/SortSearch/TheSequentialSearch.html) and [binary search](http://interactivepython.org/runestone/static/pythonds/SortSearch/TheBinarySearch.html) 
 
-Daniel, Julian, Lisa, Shirley, Wilbur, Vivien, Nico, Tim, James, [**:scream:Andy**](https://github.com/Loskiz/AS_CS_Homework/tree/master/June%2017%20Monday%202019/Pyroject_AndyZhang_WordCount), Cathy, Brian, [**:trollface:Harry**](https://github.com/haoyuF996/AL-cs-homework-June-17-Monday-2019), Jack
+[Daniel](https://github.com/Yuudachi530/Assignment), Julian, Lisa, Shirley, Wilbur, Vivien, Nico, Tim, James, [**:scream:Andy**](https://github.com/Loskiz/AS_CS_Homework/tree/master/June%2017%20Monday%202019/Pyroject_AndyZhang_WordCount), Cathy, Brian, [**:trollface:Harry**](https://github.com/haoyuF996/AL-cs-homework-June-17-Monday-2019), Jack
 
 ## July 2019
