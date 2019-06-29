@@ -43,7 +43,7 @@
   * do problem set 3 of week 3 of 2018 MIT 600 course. submit your code and result screenshots.
   * enroll in the coming 2019 MIT online course, finish week 1 of the new course: https://www.edx.org/course?search_query=introduction-to-computer-science-and-programming-using-python-2%C2%A0+ , submit everything in green ticks. 
 
-Daniel, [Julian](https://github.com/GodspeedyJulian/4/blob/master/README.md), [Lisa](https://github.com/ZeroxAlone/190603), Shirley, Wilbur, Vivien, [Nico](https://github.com/jby0107/Homework/tree/hw-6.3), Tim, James, [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/June%203%20Monday%202019), Cathy,Brian,Harry,Jack
+[Daniel](https://github.com/Yuudachi530/MIT-exercise-week3), [Julian](https://github.com/GodspeedyJulian/4/blob/master/README.md), [Lisa](https://github.com/ZeroxAlone/190603), Shirley, Wilbur, Vivien, [Nico](https://github.com/jby0107/Homework/tree/hw-6.3), Tim, James, [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/June%203%20Monday%202019), Cathy,Brian,Harry,Jack
 
 #### June 10 Monday 2019
 * 2019-06-10 homework:
