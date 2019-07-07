@@ -68,3 +68,4 @@
 * 2019-07-01 homework: DDL is July 07 6pm. 
   * Project work: "implement two versions of a wordgame!" 
      * Complete the problem set here: [MIT 6.00 online PS4] (https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2018/courseware/f0a19f0a8c2d49f3aa78ef3823845271/64f4d344ecdc48d2bef514882e6236ab/1?activate_block_id=block-v1%3AMITx%2B6.00.1x%2B2T2018%2Btype%40vertical%2Bblock%40bb51d959281e431bb64ac02f5a3ff580)
+Daniel,[Julian](https://github.com/GodspeedyJulian/7.7),Lisa,Shirley,Wilbur,Vivien,**:sleeping:Nico**,Tim,James,**:scream:Andy**,Cathy,Brian,**:trollface:Harry**,Jack
