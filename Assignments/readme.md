@@ -77,7 +77,7 @@ Daniel,[Julian](https://github.com/GodspeedyJulian/7.7),[Lisa](https://github.co
 ###################
 # Summer holiday homework 7.12-8.25 
 ## 1. 算法设计及编程作业：[基于二维数组的图像问题 2D array with image (from Ms. Lu)](./materials/20190709-Array-2D.pdf) ，提交：算法设计流程图、伪代码、python程序及运行结果截屏。 ddl: 7.20
-   * Daniel,Julian,[Lisa](https://github.com/ZeroxAlone/SVHW),Shirley,Wilbur,Vivien,Nico,Tim,James,Andy,Cathy,Brian,Harry,Jack
+   * Daniel,Julian,[Lisa](https://github.com/ZeroxAlone/SVHW),Shirley,Wilbur,Vivien,Nico,Tim,James,[Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/1_IMAGE),Cathy,Brian,Harry,Jack
 ## 2. 算法设计及编程作业：[阅读分级问题alice in wonderland](http://openbookproject.net/thinkcs/python/english3e/list_algorithms.html) (或者任何一本书）在给定年龄段词汇表中有多少个生词，提交：算法设计流程图、伪代码、python程序及运行结果截屏。 ddl: 7.25
    * Daniel,Julian,Lisa,Shirley,Wilbur,Vivien,Nico,Tim,James,Andy,Cathy,Brian,Harry,Jack
 ## 3. 课本研读及学习：请仔细研读课本chapter 11,12,13，[对照课程大纲](../syllabus%2Bfiles/502960-2021-syllabus.pdf), 整理自己的笔记（必须纸版），必须覆盖到每一个知识点,上传自己的笔记照片。 ddl: 8.20
