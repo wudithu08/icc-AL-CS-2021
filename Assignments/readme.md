@@ -33,7 +33,8 @@
   * learn week 3 of 2018 MIT 600 course: 5. Tuples and lists:  https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2018/course/#block-v1:MITx+6.00.1x+2T2018+type@chapter+block@fc8f42302c644118adfcfa720f9f403e 
     * screenshots of 5. Tuples and lists, with all green ticks which represent you have watched and done the exericses.
 
-[Daniel](https://github.com/Yuudachi530/Watchpoint-0601), [Julian](https://github.com/GodspeedyJulian/Week-3-1), [Lisa](https://github.com/ZeroxAlone/homework190530), Shirley, Wilbur, Vivien, [Nico](https://github.com/jby0107/Homework/tree/hw-5.30), Tim, James, [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/May%2030%20Monday%202019), Cathy, *:trollface:Brian*, **:trollface:Harry**, Jack
+[Daniel](https://github.com/Yuudachi530/Watchpoint-0601), [Julian](https://github.com/GodspeedyJulian/Week-3-1), [Lisa](https://github.com/ZeroxAlone/homework190530), Shirley, Wilbur, Vivien, [Nico](https://github.com/jby0107/Homework/tree/hw-5.30), Tim, James, [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/May%2030%20Monday%202019), Cathy, *:trollface:Brian*, **:trollface:Harry**,  [Jack](https://github.com/jyd1222/hello-world/tree/master)
+
 ## June 2019
 #### June 3 Monday 2019
 * 2019-06-03 homework:
@@ -43,7 +44,8 @@
   * do problem set 3 of week 3 of 2018 MIT 600 course. submit your code and result screenshots.
   * enroll in the coming 2019 MIT online course, finish week 1 of the new course: https://www.edx.org/course?search_query=introduction-to-computer-science-and-programming-using-python-2%C2%A0+ , submit everything in green ticks. 
 
-[Daniel](https://github.com/Yuudachi530/MIT-exercise-week3), [Julian](https://github.com/GodspeedyJulian/4/blob/master/README.md), [Lisa](https://github.com/ZeroxAlone/190603), Shirley, Wilbur, Vivien, [Nico](https://github.com/jby0107/Homework/tree/hw-6.3), Tim, James, [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/June%203%20Monday%202019), Cathy,Brian,Harry,Jack
+[Daniel](https://github.com/Yuudachi530/MIT-exercise-week3), [Julian](https://github.com/GodspeedyJulian/4/blob/master/README.md), [Lisa](https://github.com/ZeroxAlone/190603), Shirley, Wilbur, Vivien, [Nico](https://github.com/jby0107/Homework/tree/hw-6.3), Tim, James, [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/June%203%20Monday%202019), Cathy,Brian,Harry, [Jack](https://github.com/jyd1222/hello-world/tree/master)
+
 
 #### June 10 Monday 2019
 * 2019-06-10 homework:
@@ -80,9 +82,9 @@ Daniel,[Julian](https://github.com/GodspeedyJulian/7.7),[Lisa](https://github.co
    * [Daniel](https://github.com/Yuudachi530/summer-q1),[Julian](https://github.com/GodspeedyJulian/7.22),[Lisa](https://github.com/ZeroxAlone/SVHW),[Shirley](https://github.com/ShirleyAiko/S2/tree/SummerHoli),Wilbur,Vivien,Nico,Tim,[James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/tree/master/Summer%20Holiday%20S1/Summer%20Holiday%20HW-2D%20array),[Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/1_IMAGE),Cathy,Brian,[**:trollface:Harry**](https://github.com/haoyuF996/AL-cs-homework-July-09-2019-2Darray),[Jack:imp:](https://github.com/jyd1222/Jack-s-homework/tree/Summer-holiday-homework-7.12-8.25)
 
 ## 2. 算法设计及编程作业：[阅读分级问题alice in wonderland](http://openbookproject.net/thinkcs/python/english3e/list_algorithms.html) (或者任何一本书）在给定年龄段词汇表中有多少个生词，提交：算法设计流程图、伪代码、python程序及运行结果截屏。 ddl: 7.25
-   * Daniel,[Julian](https://github.com/GodspeedyJulian/7.25),[Lisa](https://github.com/ZeroxAlone/SVHW2),Shirley,Wilbur,Vivien,Nico,Tim,James,[Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/7.25/Pyroject_AndyZhang_WordCount),Cathy,Brian,**:trollface:Harry**,Jack
+   * Daniel,[Julian](https://github.com/GodspeedyJulian/7.25),[Lisa](https://github.com/ZeroxAlone/SVHW2),Shirley,Wilbur,Vivien,Nico,Tim,James,[Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/7.25/Pyroject_AndyZhang_WordCount),Cathy,Brian,**:trollface:Harry**,[Jack:imp:](https://github.com/jyd1222/Jack-s-homework/tree/Summer-holiday-homework-7.12-8.25)
 ## 3. 课本研读及学习：请仔细研读课本chapter 11,12,13，[对照课程大纲](../syllabus%2Bfiles/502960-2021-syllabus.pdf), 整理自己的笔记（必须纸版），必须覆盖到每一个知识点,上传自己的笔记照片。 ddl: 8.20
-   * Daniel,Julian,Lisa,Shirley,Wilbur,Vivien,Nico,Tim,James,Andy,Cathy,Brian,**:trollface:Harry**,Jack
+   * Daniel,Julian,Lisa,Shirley,Wilbur,Vivien,Nico,Tim,James,Andy,Cathy,Brian,**:trollface:Harry**,[Jack:imp:](https://github.com/jyd1222/Jack-s-homework/tree/Summer-holiday-homework-7.12-8.25)
 ## 4. 国际公开课学习：[MIT 6.00x 6.5日开课的课程](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-2)，所有同学请跟完所有内容，无论是否拿付费证书，请完成本门课，并提交完成证明截屏。 ddl: 8.8
    * Daniel,Julian,Lisa,Shirley,Wilbur,Vivien,Nico,Tim,James,Andy,Cathy,Brian,**:trollface:Harry**,[Jack:imp:](https://github.com/jyd1222/Jack-s-homework/tree/Summer-holiday-homework-7.12-8.25)
 
