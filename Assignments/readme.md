@@ -86,7 +86,7 @@ Daniel,[Julian](https://github.com/GodspeedyJulian/7.7),[Lisa](https://github.co
 ## 3. 课本研读及学习：请仔细研读课本chapter 11,12,13，[对照课程大纲](../syllabus%2Bfiles/502960-2021-syllabus.pdf), 整理自己的笔记（必须纸版），必须覆盖到每一个知识点,上传自己的笔记照片。 ddl: 8.20
    * Daniel,Julian,Lisa,Shirley,Wilbur,Vivien,Nico,Tim,James,Andy,Cathy,Brian,**:trollface:Harry**,[Jack:imp:](https://github.com/jyd1222/Jack-s-homework/tree/Summer-holiday-homework-7.12-8.25)
 ## 4. 国际公开课学习：[MIT 6.00x 6.5日开课的课程](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-2)，所有同学请跟完所有内容，无论是否拿付费证书，请完成本门课，并提交完成证明截屏。 ddl: 8.8
-   * Daniel,[Julian](https://github.com/GodspeedyJulian/8.6),Lisa,Shirley,Wilbur,Vivien,Nico,Tim,James,Andy,Cathy,Brian,**:trollface:Harry**,[Jack:imp:](https://github.com/jyd1222/Jack-s-homework/tree/Summer-holiday-homework-7.12-8.25)
+   * Daniel,[Julian](https://github.com/GodspeedyJulian/8.6),[Lisa](https://github.com/ZeroxAlone/SVHW3),Shirley,Wilbur,Vivien,Nico,Tim,James,Andy,Cathy,Brian,**:trollface:Harry**,[Jack:imp:](https://github.com/jyd1222/Jack-s-homework/tree/Summer-holiday-homework-7.12-8.25)
 
 
   * 开学第一次课考试，内容为上面内容的综合。
