@@ -104,4 +104,4 @@ Daniel,[Julian](https://github.com/GodspeedyJulian/7.7),[Lisa](https://github.co
    
  * Submit five python codes here:
  
-   * Daniel,Julian,Lisa,[Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week1),Wilbur,Vivien,Nico,Tim,James,Andy,Cathy,Brian,**:trollface:Harry**,Jack:imp:
+   * Daniel,Julian,Lisa,[Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week1),Wilbur,Vivien,Nico,Tim,James,Andy,Cathy,Brian,**:trollface:Harry**,[Jack:imp:](https://github.com/jyd1222/Jack-s-homework/blob/Daily-HK/9.6%E4%BD%9C%E4%B8%9APython%E4%BB%A3%E7%A0%81)
