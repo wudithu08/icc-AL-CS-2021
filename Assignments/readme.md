@@ -102,6 +102,6 @@ Daniel,[Julian](https://github.com/GodspeedyJulian/7.7),[Lisa](https://github.co
     * Complete the exam paper
     * Use python code to do the second question on the exam paper & submit it on Git
    
- * Submit five pythin codes here:
+ * Submit five python codes here:
  
    * Daniel,Julian,Lisa,Shirley,Wilbur,Vivien,Nico,Tim,James,Andy,Cathy,Brian,**:trollface:Harry**,Jack:imp:
