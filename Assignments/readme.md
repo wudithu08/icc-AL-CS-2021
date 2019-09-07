@@ -91,3 +91,17 @@ Daniel,[Julian](https://github.com/GodspeedyJulian/7.7),[Lisa](https://github.co
 
   * 开学第一次课考试，内容为上面内容的综合。
   
+### September 6 Friday 2019
+* 2019.9.6 homework: DDL is 2019.9.9 8am, on Ms WuDi's desk
+  * 4 Exam-style Questions (handwritten) by the end of ch.11
+    * Q1. pseudocode+python code
+    * Q2. flowchart+python code
+    * Q3. pseudocode+python code
+    * Q4. flowchart+python code
+  * exam paper
+    * Complete the exam paper
+    * Use python code to do the second question on the exam paper & submit it on Git
+   
+ * Submit five pythin codes here:
+ 
+   * Daniel,Julian,Lisa,Shirley,Wilbur,Vivien,Nico,Tim,James,Andy,Cathy,Brian,**:trollface:Harry**,Jack:imp:
