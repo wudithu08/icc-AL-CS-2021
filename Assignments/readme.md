@@ -104,4 +104,4 @@ Daniel,[Julian](https://github.com/GodspeedyJulian/7.7),[Lisa](https://github.co
    
  * Submit five python codes here:
  
-   * [Daniel](https://github.com/Yuudachi530/assignment-19.9.8),Julian,Lisa,[Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week1),Wilbur,Vivien,[Nico](https://github.com/jby0107/Homework/tree/hw-9.6),Tim,James,[Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/2019:9:6),Cathy,Brian,**:trollface:Harry**,[Jack:imp:](https://github.com/jyd1222/Jack-s-homework/blob/Daily-HK/9.6%E4%BD%9C%E4%B8%9APython%E4%BB%A3%E7%A0%81)
+   * [Daniel](https://github.com/Yuudachi530/assignment-19.9.8),Julian,[Lisa](https://github.com/ZeroxAlone/190902),[Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week1),Wilbur,Vivien,[Nico](https://github.com/jby0107/Homework/tree/hw-9.6),Tim,James,[Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/2019:9:6),Cathy,Brian,**:trollface:Harry**,[Jack:imp:](https://github.com/jyd1222/Jack-s-homework/blob/Daily-HK/9.6%E4%BD%9C%E4%B8%9APython%E4%BB%A3%E7%A0%81)
