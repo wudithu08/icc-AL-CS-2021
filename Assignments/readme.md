@@ -121,4 +121,4 @@ Daniel,[Julian](https://github.com/GodspeedyJulian/7.7),[Lisa](https://github.co
     
  * Submit your codes here: 
   
-   * Daniel,Julian,Lisa,Shirley,Wilbur,Vivien,Nico,Tim,James,Andy,Cathy,Brian,**:trollface:Harry**,Jack:imp:
+   * Daniel,Julian,Lisa,[Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week2),Wilbur,Vivien,Nico,Tim,James,Andy,Cathy,Brian,**:trollface:Harry**,Jack:imp:
