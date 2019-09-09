@@ -56,7 +56,7 @@
     * in class worksheet chapter 11  - [pdf version](./materials/PracticeWorksheet1-paper.pdf)
 
     
-### June 17 Monday 2019
+#### June 17 Monday 2019
 * 2019-06-17 homework: DDL is June 30th 6pm. 
     * Project work: “which words in this book are not in the expected vocabulary at this level?”
       * You are expected to (1) understand and design algorithm, (2)write python code to complete the whole project, (3) write an experiment report for the whole investigation process. 
@@ -90,9 +90,13 @@ Daniel,[Julian](https://github.com/GodspeedyJulian/7.7),[Lisa](https://github.co
 
 
   * 开学第一次课考试，内容为上面内容的综合。
-  
-### September 6 Friday 2019
-* 2019.9.6 homework: DDL is 2019.9.9 8am, on Ms WuDi's desk
+
+#################
+
+## September 2019
+### Week1
+#### September 6 Friday 2019
+* 2019-09-06 homework: DDL is 2019.9.9 8am, on Ms WuDi's desk
   * 4 Exam-style Questions (handwritten) by the end of ch.11
     * Q1. pseudocode+python code
     * Q2. flowchart+python code
@@ -105,3 +109,16 @@ Daniel,[Julian](https://github.com/GodspeedyJulian/7.7),[Lisa](https://github.co
  * Submit five python codes here:
  
    * [Daniel](https://github.com/Yuudachi530/assignment-19.9.8),Julian,[Lisa](https://github.com/ZeroxAlone/190902),[Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week1),Wilbur,Vivien,[Nico](https://github.com/jby0107/Homework/tree/hw-9.6),Tim,James,[Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/2019:9:6),Cathy,Brian,**:trollface:Harry**,[Jack:imp:](https://github.com/jyd1222/Jack-s-homework/blob/Daily-HK/9.6%E4%BD%9C%E4%B8%9APython%E4%BB%A3%E7%A0%81)
+
+
+#### September 9 Monday 2019
+* 2019-09-09 homework: DDL on 2019.9.11. Submit on Ms. Wu Di's desk
+  * 2 Exam-style questions on the handout
+    * write python code of Q2 and upload it to Github
+  * 3 questions on the textbook page 211
+    * handwrite the python code
+    * type the python code and upload it to Github
+    
+ * Submit your codes here: 
+  
+   * Daniel,Julian,Lisa,Shirley,Wilbur,Vivien,Nico,Tim,James,Andy,Cathy,Brian,**:trollface:Harry**,Jack:imp:
