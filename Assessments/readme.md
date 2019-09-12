@@ -12,6 +12,7 @@ submit your code:  Daniel, Harry, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Ju
 
 参考：
 https://codeleading.com/article/90751228040/
+
 https://codeleading.com/article/7665136841/
 
 
@@ -20,7 +21,9 @@ https://codeleading.com/article/7665136841/
 统计三国演义中出场人物的出场频率。
 
 [visualization]
+
 create word cloud result for the visualization:
+
 https://amueller.github.io/word_cloud/index.html 
 
 reference code:
