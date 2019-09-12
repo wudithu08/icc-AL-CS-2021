@@ -5,8 +5,9 @@
    * e.g. "Colt McCoy has a rating of 74.5". 
    * Select all the ones with a rating >= 60, then output the processed info on the screen and save them in a new text file. 
     
+submit your code:  Daniel, Harry, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy
 
 ## 2: 词频统计 --  哈姆莱特
 
 
-## 3： 词频统计 -- 三国演义
+## 3：词频统计 -- 三国演义
