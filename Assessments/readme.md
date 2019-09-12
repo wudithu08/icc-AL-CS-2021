@@ -8,6 +8,7 @@
 submit your code:  Daniel, Harry, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy
 
 ## 2: 词频统计 --  哈姆莱特
-
+https://codeleading.com/article/90751228040/
 
 ## 3：词频统计 -- 三国演义
+
