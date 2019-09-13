@@ -5,7 +5,7 @@
    * e.g. "Colt McCoy has a rating of 74.5". 
    * Select all the ones with a rating >= 60, then output the processed info on the screen and save them in a new text file. 
     
-submit your code:  Daniel, Harry, Nico, [Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK), James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy
+submit your code:  Daniel, Harry, Nico, [Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK), James, Brian, Tim, Lisa, Cathy, Julian, [Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week2), Andy
 
 ## 2: 词频统计 --  哈姆莱特
 统计所有出现的单词和出现的频率，结果输出到一个新的文件中。
