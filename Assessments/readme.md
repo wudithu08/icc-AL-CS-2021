@@ -15,7 +15,7 @@ https://codeleading.com/article/90751228040/
 
 https://codeleading.com/article/7665136841/
 
-submit your code: Daniel, Harry, [Nico](https://github.com/jby0107/Homework/tree/assessment-9.12/Task2), [Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK), James, Brian, Tim, [Lisa](https://github.com/ZeroxAlone/190912), Cathy, [Julian](https://github.com/GodspeedyJulian/9.14/tree/master/hamlet), Shirley, Andy
+submit your code: Daniel, Harry, [Nico](https://github.com/jby0107/Homework/tree/assessment-9.12/Task2), [Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK), James, Brian, Tim, [Lisa](https://github.com/ZeroxAlone/190912), Cathy, [Julian](https://github.com/GodspeedyJulian/9.14/tree/master/hamlet), [Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week2), Andy
 
 ## 3：词频统计 -- 三国演义
 统计三国演义中出场人物的出场频率。
