@@ -35,5 +35,5 @@ wc = wordcloud.WordCloud()
 wc.generate(text)               #生成词云图
 wc.to_file("AI.png")            #将词云图保存在该py文件所在的路径下
 
-submit your code: Daniel, Harry, [Nico](https://github.com/jby0107/Homework/tree/assessment-9.12/Task3), [Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK), James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy
+submit your code: Daniel, [Harry](https://github.com/haoyuF996/0911Homework-3), [Nico](https://github.com/jby0107/Homework/tree/assessment-9.12/Task3), [Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK), James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy
 
