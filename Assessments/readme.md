@@ -1,3 +1,23 @@
+# project 190916: file processing practice project (40 minutes)
+##	 1. create a new file named "AS_CS_opt2_gradebook.txt", which includes:
+
+	###	1.   12  rows, each represents a student in our class
+	###	2.  5 columns: 
+		*	1. column #1  -- English Name,
+		*	2. column #2 -- Chinese last name,
+		*	3. column #3 -- Math grade (0-100), average:90,   
+		*	4. column #4 -- CS grade(0-100), average: 95
+		*	5. column #5 -- Phy grade(0-100), average: 88
+##	 2. insert a new column "ID" to the left of column#1 -- English name,  the ID is from 1 to 12, represent the unique number for each student
+##	 3. for each student calculate the average score for Math, CS and Phy.  Add the average result at the right most column. 
+##	 4. search for the student with English name "Daniel", modify his math score to  1.1*original score.
+##  5. search for the student with the lowest Phy score, delete this student and save the rest as a new file "new-gradebook.txt"
+
+
+
+
+
+
 # project 2019-09-12
 ## 1:file processing -- extract information from a text file
    
