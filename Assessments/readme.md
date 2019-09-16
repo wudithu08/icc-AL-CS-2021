@@ -5,7 +5,7 @@
    * e.g. "Colt McCoy has a rating of 74.5". 
    * Select all the ones with a rating >= 60, then output the processed info on the screen and save them in a new text file. 
     
-submit your code:  [Daniel](https://github.com/Yuudachi530/assignment_19-9-14_q1), Harry, [Nico](https://github.com/jby0107/Homework/tree/assessment-9.12/Task1), [Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK), [James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/tree/master/exercises/File%20processing), [Brian](https://github.com/BrianShan974/Hello-World/tree/assessment), Tim, [Lisa](https://github.com/ZeroxAlone/190912), Cathy, [Julian](https://github.com/GodspeedyJulian/9.14/tree/master/qbdata), [Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week2), [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/2019-9-12)
+submit your code:  [Daniel](https://github.com/Yuudachi530/assignment_19-9-14_q1), [:trollface:Harry](https://github.com/haoyuF996/0911Homework-1), [Nico](https://github.com/jby0107/Homework/tree/assessment-9.12/Task1), [Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK), [James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/tree/master/exercises/File%20processing), [Brian](https://github.com/BrianShan974/Hello-World/tree/assessment), Tim, [Lisa](https://github.com/ZeroxAlone/190912), Cathy, [Julian](https://github.com/GodspeedyJulian/9.14/tree/master/qbdata), [Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week2), [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/2019-9-12)
 
 ## 2: 词频统计 --  哈姆莱特
 统计所有出现的单词和出现的频率，结果输出到一个新的文件中。
