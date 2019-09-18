@@ -13,7 +13,7 @@
 ##	 4. search for the student with English name "Daniel", modify his math score to  1.1*original score.
 ##  5. search for the student with the lowest Phy score, delete this student and save the rest as a new file "new-gradebook.txt"
 
-submit your code here: Daniel, [:trollface:Harry](https://github.com/haoyuF996/0916Homework), [Nico](https://github.com/jby0107/Homework/tree/assessment-9.16), Jack, James, Brian, Tim, [Lisa](https://github.com/ZeroxAlone/190916), [Cathy](https://github.com/CathyYang1118/9.16-test), [Julian](https://github.com/GodspeedyJulian/9.18), [Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week3), [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/2019-09-16)
+submit your code here: Daniel, [:trollface:Harry](https://github.com/haoyuF996/0916Homework), [Nico](https://github.com/jby0107/Homework/tree/assessment-9.16), Jack, [James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/tree/master/exercises/Assigning%20Grades), Brian, Tim, [Lisa](https://github.com/ZeroxAlone/190916), [Cathy](https://github.com/CathyYang1118/9.16-test), [Julian](https://github.com/GodspeedyJulian/9.18), [Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week3), [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/2019-09-16)
 
 
 
