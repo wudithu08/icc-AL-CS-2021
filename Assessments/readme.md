@@ -2,8 +2,7 @@
 ### reminder: pay special attention to your coding format, remember to declare your variables in comments, remember to have meaning for variable name.
 
 ### The text file required is provided to you (qbdata.txt).
-#### a) Input a character (example #,or @, or , etc) and replace all occurrences of space character in
-text file with that input character. (5+5)
+#### a) Input a character (example #,or @, or , etc) and replace all occurrences of space character in text file with that input character. (5+5)
 
 submit your code here: Daniel,Nico,Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy
 
