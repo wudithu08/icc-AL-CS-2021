@@ -1,3 +1,9 @@
+# progressive assessment 20190919 
+### reminder: pay special attention to your coding format, remember to declare your variables in comments, remember to have meaning for variable name.
+
+submit your code here: Daniel,Nico,Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy
+
+
 # project 190916: file processing practice project (40 minutes)
 ##	 1. create a new file named "AS_CS_opt2_gradebook.txt", which includes:
 
