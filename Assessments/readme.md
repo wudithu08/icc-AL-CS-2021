@@ -4,15 +4,16 @@
 ### The text file required is provided to you (qbdata.txt).
 #### a) Input a character (example #,or @, or , etc) and replace all occurrences of space character in text file with that input character. (5+5)
 
-submit your code here: Daniel,Nico,Jack, James, Brian, Tim, Lisa, Cathy, Julian, [Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week3), [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/2019-09-19)
+submit your code here: Daniel,Nico,Jack, [James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/blob/master/exercises/File%20processing%20test/a.py
+), Brian, Tim, Lisa, Cathy, Julian, [Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week3), [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/2019-09-19)
 
 #### b)Input a name which needs to be removed from the file. Create a new file and copy all lines from the original text file to new file except the line matching name. Also add the four digit unique code to each line in the beginning while writing to the new file. (10+10)
 
-submit your code here: Daniel,Nico,Jack, James, Brian, Tim, Lisa, Cathy, Julian, [Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week3), [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/2019-09-19) 
+submit your code here: Daniel,Nico,Jack, [James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/blob/master/exercises/File%20processing%20test/b.py), Brian, Tim, Lisa, Cathy, Julian, [Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week3), [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/2019-09-19) 
 
 #### c) Input a four digit code and search and display the line matching the code from the new file if found, otherwise display a suitable message. (5+5)
 
-submit your code here: Daniel,Nico,Jack, James, Brian, Tim, Lisa, Cathy, Julian, [Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week3), [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/2019-09-19)
+submit your code here: Daniel,Nico,Jack, [James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/blob/master/exercises/File%20processing%20test/c.py), Brian, Tim, Lisa, Cathy, Julian, [Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week3), [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/2019-09-19)
 
 
 
