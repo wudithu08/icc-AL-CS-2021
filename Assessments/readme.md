@@ -4,7 +4,7 @@
 ### The text file required is provided to you (qbdata.txt).
 #### a) Input a character (example #,or @, or , etc) and replace all occurrences of space character in text file with that input character. (5+5)
 
-submit your code here: Daniel,Nico,[Jack](https://github.com/jyd1222/Jack-s-homework/tree/9.19%E8%80%83%E8%AF%95), [James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/blob/master/exercises/File%20processing%20test/a.py
+submit your code here: Daniel,[Nico](https://github.com/jby0107/Homework/tree/assessment-9.19),[Jack](https://github.com/jyd1222/Jack-s-homework/tree/9.19%E8%80%83%E8%AF%95), [James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/blob/master/exercises/File%20processing%20test/a.py
 ), Brian, Tim, Lisa, Cathy, Julian, [Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week3), [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/2019-09-19)
 
 #### b)Input a name which needs to be removed from the file. Create a new file and copy all lines from the original text file to new file except the line matching name. Also add the four digit unique code to each line in the beginning while writing to the new file. (10+10)
