@@ -1,0 +1,15 @@
+name=['a','b','c','d','e','f','g'] 
+late_time=[3,1,2,3,1,2,3] 
+
+temp_name=name
+temp_late=late_time
+for j in range(6):    
+    for i in range(6):
+        if late_time[i]>late_time[i+1]:
+            temp_late=late_time[i]
+            late_time[i]=late_time[i+1]
+            late_time[i+1]=temp_late
+            
+            temp_name=name[i]
+            name[i]=name[i+1]
+            name[i+1]=temp_name
