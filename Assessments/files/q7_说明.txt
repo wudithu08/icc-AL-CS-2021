@@ -1,0 +1,16 @@
+You are to calculate pi. Assume you don't know any algorithms for pi, but you know the area of a circle is pi*d^2/4, and the area of a square is d^2.
+
+Now you have come up with an algorithm to calculate pi. You generate a lot of points in a square which has vertices at (-1, 1), (1, 1), (1, -1), (-1, -1).
+∵ The ratio of the area of the circle centered at the origin with a radius of 1 and the square is pi/4
+∴ The probability of any point landing inside the circle is pi/4
+∴ The ratio of the number of points inside the circle and the number of points is approximately pi/4 (the ratio actually converges to pi/4 as the number of points approaches infinity)
+
+The algorithm takes the number of points as the input, and outputs the result of calculation, i.e. the approximation of pi.
+
+Now in order to generate random points, you are given a built-in function RANDOM() which returns a float between -1 and 1.
+(This is not a built-in function in pseudocode, DO NOT use this function in your test!)
+
+Mark Scheme:
+	1 point for each correct answer
+	0 points for each incorrect answer
+	The order may differ, as long as the output is not affected.
