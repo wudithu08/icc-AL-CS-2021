@@ -1,5 +1,5 @@
 # Connect 4 game project 20190920
-submit your code here: Daniel, Nico, [Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK), James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
+submit your code here: Daniel, Nico, [Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK), James, Brian, Tim, [Lisa](https://github.com/ZeroxAlone/Connect4), Cathy, Julian, Shirley, Andy, Harry
 
 
 # progressive assessment 20190919 
