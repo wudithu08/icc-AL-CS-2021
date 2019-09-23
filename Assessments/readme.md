@@ -1,3 +1,7 @@
+# Connect 4 game project 20190920
+submit your code here: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
+
+
 # progressive assessment 20190919 
 ### reminder: pay special attention to your coding format, remember to declare your variables in comments, remember to have meaning for variable name.
 
