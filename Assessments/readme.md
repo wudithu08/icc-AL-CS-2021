@@ -1,5 +1,5 @@
 # Connect 4 game project 20190920
-submit your code here: Daniel, [Nico](https://github.com/jby0107/Homework/tree/四子棋), [Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK), [James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/tree/master/Connect%204), [Brian](https://github.com/BrianShan974/Hello-World/tree/game), Tim, [Lisa](https://github.com/ZeroxAlone/Connect4), [Cathy](https://github.com/CathyYang1118/-), [Julian](https://github.com/GodspeedyJulian/contect4), [Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week3), Andy, [:trollface:Harry](https://github.com/haoyuF996/0920-Game-of-4)
+submit your code here: [Daniel](https://github.com/Yuudachi530/assignment-19.9.25), [Nico](https://github.com/jby0107/Homework/tree/四子棋), [Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK), [James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/tree/master/Connect%204), [Brian](https://github.com/BrianShan974/Hello-World/tree/game), Tim, [Lisa](https://github.com/ZeroxAlone/Connect4), [Cathy](https://github.com/CathyYang1118/-), [Julian](https://github.com/GodspeedyJulian/contect4), [Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week3), Andy, [:trollface:Harry](https://github.com/haoyuF996/0920-Game-of-4)
 
 
 # progressive assessment 20190919 
