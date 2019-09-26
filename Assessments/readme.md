@@ -6,7 +6,7 @@ Please be creative. Apply text mining for your own interests. Complete the whole
 Submit your code and report here: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
 
 # Tic-tac-toe real AI using Mini-max    20190928 
-### [Reference1](https://github.com/Cledersonbc/tic-tac-toe-minimax), [Reference2](http://inventwithpython.com/chapter10.html)
+### [Reference1](https://github.com/Cledersonbc/tic-tac-toe-minimax), [Reference2](http://inventwithpython.com/chapter10.html),[Reference3](https://segmentfault.com/a/1190000013527949)
 Submit your code and game screenshots: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
 
 # DIY your own game using pygame! Well, first make a tic-tac-toe game with "AI" (random)   20190927 
