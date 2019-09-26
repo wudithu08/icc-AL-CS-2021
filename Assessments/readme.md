@@ -15,7 +15,7 @@ Submit your code and game screenshots: Daniel, Nico, Jack, James, Brian, Tim, Li
 
 # Eight Queens puzzle!    20190926 
 ###  [Reference](http://openbookproject.net/thinkcs/python/english3e/list_algorithms.html#eightqueensmainprog) understand and then design your own eight queens algorithm and implement it.   
-Submit your code: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, [Julian](https://github.com/GodspeedyJulian/9.26), Shirley, Andy, Harry
+Submit your code: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, [Julian](https://github.com/GodspeedyJulian/9.26), Shirley, [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2019-09-26), Harry
 
 # Reflection on Summative Assessment 1  20190926
 ### [exam paper and mark scheme](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/AS%20Summative%20Assessment%20Sep.pdf)
