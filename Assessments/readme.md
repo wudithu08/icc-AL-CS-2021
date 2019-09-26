@@ -1,3 +1,20 @@
+# web spider and text mining  start from 20190929, end on 20191015
+## report template can be downloaded from ....
+Submit your code and report here: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
+
+# Tic-tac-toe real AI using Mini-max    20190928 
+Submit your code and game screenshots: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
+
+# DIY your own game using pygame! Well, first make a tic-tac-toe game with "AI" (random)   20190927 
+Submit your code and game screenshots: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
+
+# Eight Queens puzzle!    20190926 
+## Reference:  
+Submit your code: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
+
+# Reflection on Summative Assessment 1  20190926
+Submit your reflections here: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
+
 # Connect 4 game project 20190920
 submit your code here: [Daniel](https://github.com/Yuudachi530/assignment-19.9.25), [Nico](https://github.com/jby0107/Homework/tree/四子棋), [Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK), [James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/tree/master/Connect%204), [Brian](https://github.com/BrianShan974/Hello-World/tree/game), [Tim](https://github.com/YulinXing/friendly-octo-robot/blob/master/connect4.py), [Lisa](https://github.com/ZeroxAlone/Connect4), [Cathy](https://github.com/CathyYang1118/-), [Julian](https://github.com/GodspeedyJulian/contect4), [Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week3), [Andy](https://github.com/Loskiz/AS_CS_Homework/tree/master/2019-09-20), [:trollface:Harry](https://github.com/haoyuF996/0920-Game-of-4)
 
