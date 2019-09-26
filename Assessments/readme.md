@@ -1,5 +1,8 @@
 # web spider and text mining  start from 20190929, end on 20191015
-## report template can be downloaded from ....
+### [report template](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/CS-project-report-template.docx)
+
+Please be creative. Apply text mining for your own interests. Complete the whole project and then write a report. This is your national day holiday homework. References are listed below.
+
 Submit your code and report here: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
 
 # Tic-tac-toe real AI using Mini-max    20190928 
