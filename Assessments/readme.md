@@ -13,6 +13,7 @@ Submit your code and game screenshots: Daniel, Nico, Jack, James, Brian, Tim, Li
 Submit your code: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
 
 # Reflection on Summative Assessment 1  20190926
+### [exam paper and mark scheme](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/AS%20Summative%20Assessment%20Sep.pdf)
 Submit your reflections here: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
 
 # Connect 4 game project 20190920
