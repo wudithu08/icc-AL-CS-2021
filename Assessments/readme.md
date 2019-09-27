@@ -11,7 +11,7 @@ Submit your code and game screenshots: Daniel, Nico, Jack, James, Brian, Tim, Li
 
 # DIY your own game using pygame! Well, first make a tic-tac-toe game with "AI" (random)   20190927 
 ### [Reference](http://openbookproject.net/thinkcs/python/english3e/pygame.html)  Make your own tic-tac-toe game with GUI
-Submit your code and game screenshots: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
+Submit your code and game screenshots: Daniel, [Nico](https://github.com/jby0107/Homework/tree/tictactoe), Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
 
 # Eight Queens puzzle!    20190926 
 ###  [Reference](http://openbookproject.net/thinkcs/python/english3e/list_algorithms.html#eightqueensmainprog) understand and then design your own eight queens algorithm and implement it.   
