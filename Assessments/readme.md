@@ -1,5 +1,5 @@
 # web spider and text mining  start from 20190929, end on 20191015
-### [report template](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/CS-project-report-template.docx), [Web Spider + NLP](https://segmentfault.com/a/1190000010473819), [Word Cloud](https://ask.hellobi.com/blog/yuguiyang1990/9445),[Sanguo wordCount](https://www.cnblogs.com/A9kl/p/9311246.html),[Resources for you](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/resources-textmining.zip)
+### [report template](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/CS-project-report-template.docx), [Web Spider + NLP](https://segmentfault.com/a/1190000010473819), [Word Cloud](https://ask.hellobi.com/blog/yuguiyang1990/9445),[Sanguo wordCount](https://www.cnblogs.com/A9kl/p/9311246.html),[Resources for you](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/resources-textmining.zip),[Douban Movie example](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/douban-movie.zip)
 
 Please be creative. Apply text mining for your own interests. Complete the whole project and then write a report. This is your national day holiday homework. References are listed below.
 
