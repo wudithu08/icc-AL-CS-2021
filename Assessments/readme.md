@@ -3,7 +3,7 @@
 
 Please be creative. Apply text mining for your own interests. Complete the whole project and then write a report. This is your national day holiday homework. References are listed below.
 
-Submit your code and report here: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
+Submit your code and report here: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2019-09-29), Harry
 
 # Tic-tac-toe real AI using Mini-max    20190928 
 ### [Reference1](https://github.com/Cledersonbc/tic-tac-toe-minimax), [Reference2](http://inventwithpython.com/chapter10.html),[Reference3](https://segmentfault.com/a/1190000013527949)
