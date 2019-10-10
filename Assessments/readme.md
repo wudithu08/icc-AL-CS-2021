@@ -8,6 +8,7 @@ Submit your work here: Daniel，Julian，Lisa，Shirley，Nico，Tim，James，A
 ### 3. Practical project: DIY calculator, must use a lot of funcitons 
 *  Reference for command line interface: https://www.programiz.com/python-programming/examples/calculator 
 *  a simple GUI example: https://www.wikihow.com/Make-a-GUI-Calculator-with-Tkinter 
+
 Submit your work here: Daniel，Julian，Lisa，Shirley，Nico，Tim，James，Andy，Cathy，Brian，Harry，Jack
 
 # web spider and text mining  start from 20190929, end on 20191015
