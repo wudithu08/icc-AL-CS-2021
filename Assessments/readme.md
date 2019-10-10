@@ -1,3 +1,15 @@
+# Subroutines -- functions and procedure, homework  DDL-- 20191012 
+### 1. Detailed mind map of Chapter 14
+Submit your work here: Daniel，Julian，Lisa，Shirley，Nico，Tim，James，Andy，Cathy，Brian，Harry，Jack
+
+### 2. Course book page 227, Q1+Q2+Q3, all pseudocode and python code
+Submit your work here: Daniel，Julian，Lisa，Shirley，Nico，Tim，James，Andy，Cathy，Brian，Harry，Jack
+
+### 3. Practical project: DIY calculator, must use a lot of funcitons 
+*  Reference for command line interface: https://www.programiz.com/python-programming/examples/calculator 
+*  a simple GUI example: https://www.wikihow.com/Make-a-GUI-Calculator-with-Tkinter 
+Submit your work here: Daniel，Julian，Lisa，Shirley，Nico，Tim，James，Andy，Cathy，Brian，Harry，Jack
+
 # web spider and text mining  start from 20190929, end on 20191015
 ### [report template](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/CS-project-report-template.docx), [Web Spider + NLP](https://segmentfault.com/a/1190000010473819), [Word Cloud](https://ask.hellobi.com/blog/yuguiyang1990/9445),[Sanguo wordCount](https://www.cnblogs.com/A9kl/p/9311246.html),[Resources for you](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/resources-textmining.zip),[Douban Movie example](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/douban-movie.zip)
 
