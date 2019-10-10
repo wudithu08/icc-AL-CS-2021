@@ -1,6 +1,7 @@
 # Subroutines -- functions and procedure, homework  DDL-- 20191012 
 ### 1. Detailed mind map of Chapter 14
 Submit your work here: Daniel，Julian，Lisa，Shirley，Nico，Tim，James，Andy，Cathy，Brian，Harry，Jack
+* Ref material for global v.s. local variable: https://www.programiz.com/python-programming/global-local-nonlocal-variables 
 
 ### 2. Course book page 227, Q1+Q2+Q3, all pseudocode and python code
 Submit your work here: Daniel，Julian，Lisa，Shirley，Nico，Tim，James，Andy，Cathy，Brian，Harry，Jack
