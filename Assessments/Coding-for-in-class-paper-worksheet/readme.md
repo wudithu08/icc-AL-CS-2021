@@ -7,7 +7,9 @@ The input info/file you need is here:
 
       ** no input parameter
       
-      ** return value is of REAL type. random number in the range (0,100)
+      ** return value is of REAL type. 
+      
+      ** random number in the range (0,100)
 
 * For Q3: for the array, naming "Result", you need to generate it at the beginning of your code. Write a function GenerateArray for this purpose. The funciotn will return and array of 100 elements of data type real. 
 
