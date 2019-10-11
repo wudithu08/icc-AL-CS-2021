@@ -4,7 +4,7 @@ Submit your work here: Daniel，Julian，Lisa，Shirley，Nico，Tim，James，A
 
 
 ### 1. Detailed mind map of Chapter 14   DDL-- 20191012
-Submit your work here: Daniel，Julian，Lisa，Shirley，Nico，Tim，James，Andy，Cathy，Brian，Harry，Jack
+Submit your work here: Daniel，Julian，Lisa，Shirley，Nico，[Tim](https://github.com/YulinXing/friendly-octo-robot/blob/master/Note%20Oct%2010%2C%202019%2011_43_57%20AM.note)，James，Andy，Cathy，Brian，Harry，Jack
 * Ref material for global v.s. local variable: https://www.programiz.com/python-programming/global-local-nonlocal-variables 
 
 ### 2. Course book page 227, Q1+Q2+Q3, all pseudocode and python code    DDL-- 20191016
