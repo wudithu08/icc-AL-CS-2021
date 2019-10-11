@@ -1,12 +1,16 @@
-# Subroutines -- functions and procedure, homework  DDL-- 20191012 
-### 1. Detailed mind map of Chapter 14
+# Subroutines -- functions and procedure, homework  
+### 0. [Coding practice for worksheet 20191010](https://github.com/wudithu08/icc-AL-CS-2021/tree/master/Assessments/Coding-for-in-class-paper-worksheet)  DDL 20191012 
+Submit your work here: Daniel，Julian，Lisa，Shirley，Nico，Tim，James，Andy，Cathy，Brian，Harry，Jack
+
+
+### 1. Detailed mind map of Chapter 14   DDL-- 20191012
 Submit your work here: Daniel，Julian，Lisa，Shirley，Nico，Tim，James，Andy，Cathy，Brian，Harry，Jack
 * Ref material for global v.s. local variable: https://www.programiz.com/python-programming/global-local-nonlocal-variables 
 
-### 2. Course book page 227, Q1+Q2+Q3, all pseudocode and python code
+### 2. Course book page 227, Q1+Q2+Q3, all pseudocode and python code    DDL-- 20191016
 Submit your work here: Daniel，Julian，Lisa，Shirley，Nico，Tim，James，Andy，Cathy，Brian，Harry，Jack
 
-### 3. Practical project: DIY calculator, must use a lot of funcitons 
+### 3. Practical project: DIY calculator, must use a lot of funcitons    DDL-- 20191020
 *  Reference for command line interface: https://www.programiz.com/python-programming/examples/calculator 
 *  a simple GUI example: https://www.wikihow.com/Make-a-GUI-Calculator-with-Tkinter 
 
