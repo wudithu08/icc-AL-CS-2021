@@ -1,6 +1,6 @@
 # Subroutines -- functions and procedure, homework  
 ### 0. [Coding practice for worksheet 20191010](https://github.com/wudithu08/icc-AL-CS-2021/tree/master/Assessments/Coding-for-in-class-paper-worksheet)  DDL 20191012 
-Submit your work here: Daniel，Julian，Lisa，[Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week6)，[Nico](https://github.com/jby0107/Homework/tree/hw-10.11)，Tim，James，Andy，Cathy，Brian，Harry，Jack
+Submit your work here: Daniel，Julian，Lisa，[Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week6)，[Nico](https://github.com/jby0107/Homework/tree/hw-10.11)，Tim，[James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/tree/master/exercises/Revision%20Questions%20for%20Chapter%2012%2C13)，Andy，Cathy，Brian，Harry，Jack
 
 
 ### 1. Detailed mind map of Chapter 14   DDL-- 20191012
