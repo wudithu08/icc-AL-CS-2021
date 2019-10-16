@@ -13,7 +13,7 @@ Submit your work here: Daniel，[Julian](https://github.com/GodspeedyJulian/10.1
 * Ref material for global v.s. local variable: https://www.programiz.com/python-programming/global-local-nonlocal-variables 
 
 ### 2. Course book page 227, Q1+Q2+Q3, all pseudocode and python code    DDL-- 20191016
-Submit your work here: [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/page%20227%2C%20Q1%2BQ2%2BQ3)，[Julian](https://github.com/GodspeedyJulian/10.13)，Lisa，[Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week6)，[Nico](https://github.com/jby0107/Homework/tree/hw-10.16)，[Tim](https://github.com/YulinXing/friendly-octo-robot)，James，Andy，Cathy，Brian，Harry，Jack
+Submit your work here: [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/page%20227%2C%20Q1%2BQ2%2BQ3)，[Julian](https://github.com/GodspeedyJulian/10.13)，Lisa，[Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week6)，[Nico](https://github.com/jby0107/Homework/tree/hw-10.16)，[Tim](https://github.com/YulinXing/friendly-octo-robot)，James，Andy，[Cathy](https://github.com/CathyYang1118/assessment)，Brian，Harry，Jack
 
 ### 3. Practical project: DIY calculator, must use a lot of funcitons    DDL-- 20191020
 *  Reference for command line interface: https://www.programiz.com/python-programming/examples/calculator 
