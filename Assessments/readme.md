@@ -1,3 +1,10 @@
+# Homework 20191017-20191021, ddl 20191021 8am 
+### 1. coding practice of Ch12 end of chapter question 2 -- memory game
+Submit your code and game screenshots: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
+### 2. worksheet on structure charts -- download from here, print it and finish it, hand in the printed and completed version on my desk  by 8am 20191021
+### 3. worksheet on software development-- please read carefully the whole chapter in coursebook and also refer to the slides here.  hand in the completed paper on my desk by 8am 20191021
+
+
 # Ch12 and Ch14 review lesson + structure charts. All the following 3 items please submit the paper version to me by Thursday (10.17) 8:00am 
 ### 1. Ch12 end of chapter questions
 ### 2. Rewrite the whole paper: please print the e-version of the paper: https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/Coding-for-in-class-paper-worksheet/Worksheet-Structured%20Programming.pdf, and redo it all!
