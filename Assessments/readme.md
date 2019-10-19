@@ -1,7 +1,7 @@
 # Homework 20191017-20191021, ddl 20191021 8am 
 [download the mark scheme of ch12 end of chapter questions, especially for structure charts of the memory game](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/answer%20ch12%20end%20of%20chapter%20questions.pdf).
 ### 1. coding practice of Ch12 end of chapter question 2 -- memory game
-Submit your code and game screenshots: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
+Submit your code and game screenshots: Daniel, Nico, (Jack)[https://github.com/jyd1222/Jack-s-homework/tree/%E6%97%A5%E5%B8%B8%E7%BB%83%E4%B9%A0], James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
 ### 2. worksheet on structure charts -- [download from here](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/Worksheet-Structured%20Charts.pdf), print it and finish it, hand in the printed and completed version on my desk  by 8am 20191021
 ### 3. worksheet on software development-- please read carefully the whole chapter in coursebook and also refer to the [slides here](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/ch15.pptx).  hand in the completed paper on my desk by 8am 20191021
 
