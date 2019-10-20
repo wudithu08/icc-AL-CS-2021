@@ -34,7 +34,7 @@ Submit your work here: Daniel，Julian，[Lisa](https://github.com/ZeroxAlone/19
 
 Please be creative. Apply text mining for your own interests. Complete the whole project and then write a report. This is your national day holiday homework. References are listed below.
 
-Submit your code and report here: Daniel, [Nico](https://github.com/jby0107/Homework/tree/spyder), Jack, James, Brian, [Tim](https://github.com/YulinXing/friendly-octo-robot), [Lisa](https://github.com/ZeroxAlone/sphw), Cathy, Julian, Shirley, [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2019-09-29), Harry
+Submit your code and report here: Daniel, [Nico](https://github.com/jby0107/Homework/tree/spyder), Jack, James, Brian, [Tim](https://github.com/YulinXing/friendly-octo-robot), [Lisa](https://github.com/ZeroxAlone/sphw), Cathy, [Julian](https://github.com/GodspeedyJulian/10.20), Shirley, [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2019-09-29), Harry
 
 # Tic-tac-toe real AI using Mini-max    20190928 
 ### [Reference1](https://github.com/Cledersonbc/tic-tac-toe-minimax), [Reference2](http://inventwithpython.com/chapter10.html),[Reference3](https://segmentfault.com/a/1190000013527949)
