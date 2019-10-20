@@ -27,7 +27,7 @@ Submit your work here: [Daniel](https://github.com/Yuudachi530/Assignment/tree/m
 *  Reference for command line interface: https://www.programiz.com/python-programming/examples/calculator 
 *  a simple GUI example: https://www.wikihow.com/Make-a-GUI-Calculator-with-Tkinter 
 
-Submit your work here: Daniel，Julian，[Lisa](https://github.com/ZeroxAlone/191020)，Shirley，Nico，Tim，James，Andy，Cathy，Brian，Harry，Jack
+Submit your work here: Daniel，Julian，[Lisa](https://github.com/ZeroxAlone/191020)，Shirley，[Nico](https://github.com/jby0107/Homework/tree/calculator)，Tim，James，Andy，Cathy，Brian，Harry，Jack
 
 # web spider and text mining  start from 20190929, end on 20191015
 ### [report template](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/CS-project-report-template.docx), [Web Spider + NLP](https://segmentfault.com/a/1190000010473819), [Word Cloud](https://ask.hellobi.com/blog/yuguiyang1990/9445),[Sanguo wordCount](https://www.cnblogs.com/A9kl/p/9311246.html),[Resources for you](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/resources-textmining.zip),[Douban Movie example](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/douban-movie.zip)
