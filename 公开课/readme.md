@@ -9,3 +9,7 @@
 * 1. 图像的模型：请将实践结果分享之共享文档[【图像建模实践】](https://shimo.im/docs/PPJPVrvVq3gxJvCq)，资源：demo1-imageModel.zip
 * 2. 图像的结构：请将实践结果分享之共享文档[【结构建模实践】](https://shimo.im/docs/3XyCTYgH6rtC3qw3)，资源：demo2-structureModel.zip
 * 3. 图像的无缝融合：请将实践结果分享之共享文档[【无缝融合--基本模型+改进模型】](https://shimo.im/docs/q6TYvCTgKYpphtDx)，资源：demo3-seamlessClone.zip
+
+
+#### 致谢
+* 致谢王之枫同学完成 PossionFinal.py 程序的开发，该程序可以交互式的选择源图像要复制粘贴的区域。
