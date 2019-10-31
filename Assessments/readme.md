@@ -8,7 +8,7 @@ Program for c(i) and e
 
 * Q3： Please use the data provided in the question and program for (b)
 
-Submit your code and screenshots: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
+Submit your code and screenshots: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2019-11-01), Harry
 
 
 # Homework 20191017-20191021, ddl 20191021 8am 
