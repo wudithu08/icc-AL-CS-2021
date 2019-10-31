@@ -1,11 +1,12 @@
 # Summative Assessment 2 -- Ch12-Ch15 all paper 2, ddl 20191101 8am
 ### Please write program code for Q1 Q2 and Q3 in the exam paper:
-* 1. Q1: must include validation of "Ticket type" AND "Baggage allowance(kg)"
+*  Q1: must include validation of "Ticket type" AND "Baggage allowance(kg)"
 
-* 2. Q2: download the file from here: file 1(3 lines for one product), file 2(1 line for one product)
+*  Q2: download the file from here: file 1(3 lines for one product), file 2(1 line for one product)
 Program for c(i) and e
 
-* 3. Q3： Please use the data provided in the question and program for (b)
+* Q3： Please use the data provided in the question and program for (b)
+
 Submit your code and screenshots: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
 
 
