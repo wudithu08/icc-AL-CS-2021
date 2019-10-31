@@ -1,0 +1,27 @@
+0198
+Plums(10kg)
+11.50
+0202
+Onions(20kg)
+10.00
+0376
+Mango chutney
+02.99
+0014
+Mango(10kg)
+12.75
+0001
+Apples(10kg)
+06.00
+0002
+Banana(10kg)
+04.00
+0003
+Chuochuo(10kg)
+88.88
+0004
+YiZhiQiu
+25.00
+0005
+Kaoshanyao
+66.66
