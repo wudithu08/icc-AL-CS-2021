@@ -2,7 +2,7 @@
 ### Please write program code for Q1 Q2 and Q3 in the exam paper:
 *  Q1: must include validation of "Ticket type" AND "Baggage allowance(kg)"
 
-*  Q2: download the file from here: file 1(3 lines for one product), file 2(1 line for one product)
+*  Q2: download the file from here: [file 1(3 lines for one product)](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/PRODUCTS_oneline.txt), [file 2(1 line for one product)](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/PRODUCTS_threelines.txt)
 Program for c(i) and e
 
 * Q3： Please use the data provided in the question and program for (b)
