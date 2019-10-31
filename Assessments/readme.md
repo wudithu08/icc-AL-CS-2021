@@ -1,4 +1,5 @@
 # Summative Assessment 2 -- Ch12-Ch15 all paper 2, ddl 20191101 8am
+### [You can download SA paper and markscheme](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/SA2-modified.pdf)
 ### Please write program code for Q1 Q2 and Q3 in the exam paper:
 *  Q1: must include validation of "Ticket type" AND "Baggage allowance(kg)"
 
