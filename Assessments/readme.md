@@ -1,3 +1,14 @@
+# Summative Assessment 2 -- Ch12-Ch15 all paper 2, ddl 20191101 8am
+### Please write program code for Q1 Q2 and Q3 in the exam paper:
+* 1. Q1: must include validation of "Ticket type" AND "Baggage allowance(kg)"
+
+* 2. Q2: download the file from here: file 1(3 lines for one product), file 2(1 line for one product)
+Program for c(i) and e
+
+* 3. Q3： Please use the data provided in the question and program for (b)
+Submit your code and screenshots: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
+
+
 # Homework 20191017-20191021, ddl 20191021 8am 
 [download the mark scheme of ch12 end of chapter questions, especially for structure charts of the memory game](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/answer%20ch12%20end%20of%20chapter%20questions.pdf).
 ### 1. coding practice of Ch12 end of chapter question 2 -- memory game
