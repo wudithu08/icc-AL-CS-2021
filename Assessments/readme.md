@@ -8,7 +8,7 @@ Program for c(i) and e
 
 * Q3： Please use the data provided in the question and program for (b)
 
-Submit your code and screenshots: [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/SA2%20Ch12-15%20q1-3%20Programming), [Nico](https://github.com/jby0107/Homework/tree/hw-10.31), Jack, [James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/tree/master/exercises/Summative%20Assignment%20Paper%2019.10.31), [Brian](https://github.com/BrianShan974/Hello-World/tree/assessment), [Tim](https://github.com/YulinXing/friendly-octo-robot), [Lisa](https://github.com/ZeroxAlone/191031), [Cathy](https://github.com/CathyYang1118/assessment/tree/10.31-P9), [Julian](https://github.com/GodspeedyJulian/10.31), [Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week9), [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2019-11-01), Harry
+Submit your code and screenshots: [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/SA2%20Ch12-15%20q1-3%20Programming), [Nico](https://github.com/jby0107/Homework/tree/hw-10.31), Jack, [James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/tree/master/exercises/Summative%20Assignment%20Paper%2019.10.31), [Brian](https://github.com/BrianShan974/Hello-World/tree/assessment), [Tim](https://github.com/YulinXing/friendly-octo-robot), [Lisa](https://github.com/ZeroxAlone/191031), [Cathy](https://github.com/CathyYang1118/assessment/tree/10.31-P9), [Julian](https://github.com/GodspeedyJulian/10.31), [Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week8), [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2019-11-01), Harry
 
 
 # Homework 20191017-20191021, ddl 20191021 8am 
