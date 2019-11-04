@@ -2,7 +2,7 @@
 ### 1.1 Number systems
 *  M-base number to N-base number conversion
 
-Submit your code here: Daniel，Julian，Lisa，Shirley，Nico，Tim，James，Andy，Cathy，Brian，Harry，Jack
+Submit your code here: Daniel，Julian，Lisa，[Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week9)，Nico，Tim，James，Andy，Cathy，Brian，Harry，Jack
 
 # Summative Assessment 2 -- Ch12-Ch15 all paper 2, ddl 20191101 8am
 ### [You can download SA paper and markscheme](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/SA2-modified.pdf)
