@@ -2,7 +2,7 @@
 ### 1.1 Number systems
 *  M-base number to N-base number conversion
 
-Submit your code here: [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/scale%20converse)，[Julian](https://github.com/GodspeedyJulian/11.5)，[Lisa](https://github.com/ZeroxAlone/191104)，[Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week9)，[Nico](https://github.com/jby0107/Homework/tree/hw-11.4)，[Tim](https://github.com/YulinXing/friendly-octo-robot)，[James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/blob/master/exercises/decimalconvert.py)，Andy，[Cathy](https://github.com/CathyYang1118/paper-1/tree/week9)，Brian，Harry，[Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK)
+Submit your code here: [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/scale%20converse)，[Julian](https://github.com/GodspeedyJulian/11.5)，[Lisa](https://github.com/ZeroxAlone/191104)，[Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week9)，[Nico](https://github.com/jby0107/Homework/tree/hw-11.4)，[Tim](https://github.com/YulinXing/friendly-octo-robot)，[James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/blob/master/exercises/decimalconvert.py)，Andy，[Cathy](https://github.com/CathyYang1118/paper-1/tree/week9)，[Brian](https://github.com/BrianShan974/Hello-World/tree/assessment)，Harry，[Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK)
 
 ### 1.2 Character codes
 Let's do a practice projects, based on the following resources:
