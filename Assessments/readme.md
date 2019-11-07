@@ -14,8 +14,9 @@ create a table
 * rows: We, 我，们，中国人， 
 * write program code to see how texts are coded in computer with different character codes. 
 
-Submit (1) your code and (2) a brief report about differenct character coding schemes with result tables here:
 
+Submit (1) your code and (2) a brief report about differenct character coding schemes with result tables here:
+* https://shimo.im/docs/WXdvvWwKCpWyvYvQ/ 「text coding practice」，可复制链接后用石墨文档 App 或小程序打开 
 Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
 
 ### 1.3 vector graph v.s. bitmap image
