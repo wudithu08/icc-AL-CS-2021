@@ -18,10 +18,39 @@ Submit (1) your code and (2) a brief report about differenct character coding sc
 
 Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
 
+### 1.3 vector graph v.s. bitmap image
+Part A:  research and practice about color depth: 
+* https://www.cnblogs.com/1175429393wljblog/p/5404626.html 
+* https://www.cnblogs.com/pacino12134/p/9772687.html 
 
+#### Part A task for you:
+* 1. Write program to show a color image in different color depth: 1bit, 4 bits(optional), 8 bits, 24 bits, 32 bits…
+* 2. Write a brief report about this investigation: what is color channel and how it affects the image quality
 
-  
- 
+B. Use python to create vector image and compare with bitmap
+* https://blog.csdn.net/jwyhappy/article/details/87366577 
+* https://blog.csdn.net/xpj8888/article/details/82712238
+* https://matplotlib.org/tutorials/introductory/sample_plots.html
+
+#### Part B task for you: 
+* 1. Write program to create a math function(y = sinx ) figure, save it as in both .bmp format and .svg format
+Open the .svg format in inkscape and compare with the bitmap in the same scale, 
+* 2. Write a brief report about this investigation: what are the features of vector graph and what are the main difference between vector graph and bitmap.
+
+C. Image format in details: bmp, jpg(jpeg), png, gif, webp
+* https://blog.csdn.net/jemenchen/article/details/52658476
+* https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.imsave.html
+
+#### Part C task for you: 
+* 1. Research about the A bitmap file header containing meta data which defines the colour depth and the resolution, etc., write everything you can find out. 
+* 2. Write program to create your own bitmap image based on 2D array in python, you can refer to https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assignments/arrays/exercise.py 
+* 3. Try to find a way to visualize the how image is represented in computer. (bonus)
+* 4. Write a brief report of different image formats: bmp, jpg(jpeg), png, gif, webp, use a big table to show your results.
+* 5. Use python matplotlib to create an image (refer to point 2) and save it as different format, compare the image file size, think about why and write your results.
+
+Submit (1) your code and (2) research report for part ABC together here:
+
+Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry 
 
 
 
