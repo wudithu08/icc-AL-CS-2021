@@ -4,6 +4,25 @@
 
 Submit your code here: [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/scale%20converse)，[Julian](https://github.com/GodspeedyJulian/11.5)，[Lisa](https://github.com/ZeroxAlone/191104)，[Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week9)，[Nico](https://github.com/jby0107/Homework/tree/hw-11.4)，[Tim](https://github.com/YulinXing/friendly-octo-robot)，[James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/blob/master/exercises/decimalconvert.py)，Andy，[Cathy](https://github.com/CathyYang1118/paper-1/tree/week9)，Brian，Harry，[Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK)
 
+### 1.2 Character codes
+* https://blog.csdn.net/wsl_cnxw/article/details/82083743
+* http://c.biancheng.net/view/4305.html 
+
+create a table
+* columns:  ascii, Unicode, Utf-8, GBK/gb2312; 
+* rows: We, 我，们，中国人， 
+* write program code to see how texts are coded in computer with different character codes. 
+
+Submit (1) your code and (2) a brief report about differenct character coding schemes with result tables here:
+Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
+
+
+
+  
+ 
+
+
+
 # Summative Assessment 2 -- Ch12-Ch15 all paper 2, ddl 20191101 8am
 ### [You can download SA paper and markscheme](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/SA2-modified.pdf)
 ### Please write program code for Q1 Q2 and Q3 in the exam paper:
