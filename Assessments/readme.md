@@ -1,7 +1,14 @@
 # Chapter 1 information representation
-### homework 11.8-11.10 ddl: 11.11 Monday 8:00am
+### homework 11.8-11.10 are listed below, ddl: 11.11 Monday 8:00am
+#### part 1 worksheet
 * worksheet 1: https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/CH_01_Worksheet_1.pdf 
 * worksheet 2: https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/CH_01_Worksheet_2.pdf 
+#### part 2 project -- image 
+* see 1.2 Character codes
+
+#### part 3 project -- music
+* see 1.3 sound
+
 
 ### 1.1 Number systems
 *  M-base number to N-base number conversion
@@ -57,6 +64,10 @@ Submit (1) your code and (2) research report for part ABC together here:
 
 Daniel, [Nico](https://github.com/jby0107/Homework/tree/image), Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry 
 
+### 1.3 Sound 
+#### project sound
+* Reference: https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/Sound%20Wave.rar
+* create your own garage band: 探究项目——音频，project music， 用程序创作音乐。要求：为每个音符创建对应频率的sin函数，参见ppt的基本例子。最基本要求，是单声部，用户输入简谱，或者从文件读简谱，计算机生成音乐并自动播放。期待有同学可以做出多声部，甚至不同的乐器效果。总之就是要打造自己的garage band。 ddl同上。
 
 
 # Summative Assessment 2 -- Ch12-Ch15 all paper 2, ddl 20191101 8am
