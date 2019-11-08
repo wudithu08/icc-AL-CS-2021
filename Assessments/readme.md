@@ -16,6 +16,7 @@
 Submit your code here: [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/scale%20converse)，[Julian](https://github.com/GodspeedyJulian/11.5)，[Lisa](https://github.com/ZeroxAlone/191104)，[Shirley](https://github.com/ShirleyAiko/S2/tree/%23Week9)，[Nico](https://github.com/jby0107/Homework/tree/hw-11.4)，[Tim](https://github.com/YulinXing/friendly-octo-robot)，[James](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/blob/master/exercises/decimalconvert.py)，[Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2019-11-06)，[Cathy](https://github.com/CathyYang1118/paper-1/tree/week9)，[Brian](https://github.com/BrianShan974/Hello-World/tree/assessment)，Harry，[Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK)
 
 ### 1.2 Character codes
+
 Let's do a practice projects, based on the following resources:
 * https://blog.csdn.net/wsl_cnxw/article/details/82083743
 * http://c.biancheng.net/view/4305.html 
@@ -31,6 +32,7 @@ Submit (1) your code and (2) a brief report about differenct character coding sc
 Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry
 
 ### 1.3 vector graph v.s. bitmap image
+#### project image
 Part A:  research and practice about color depth: 
 * https://www.cnblogs.com/1175429393wljblog/p/5404626.html 
 * https://www.cnblogs.com/pacino12134/p/9772687.html 
