@@ -1,4 +1,8 @@
 # Chapter 1 information representation
+### homework 11.8-11.10 ddl: 11.11 Monday 8:00am
+* worksheet 1: https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/CH_01_Worksheet_1.pdf 
+* worksheet 2: https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/CH_01_Worksheet_2.pdf 
+
 ### 1.1 Number systems
 *  M-base number to N-base number conversion
 
