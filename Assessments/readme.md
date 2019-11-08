@@ -51,7 +51,7 @@ C. Image format in details: bmp, jpg(jpeg), png, gif, webp
 
 Submit (1) your code and (2) research report for part ABC together here:
 
-Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry 
+Daniel, [Nico](https://github.com/jby0107/Homework/tree/image), Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry 
 
 
 
