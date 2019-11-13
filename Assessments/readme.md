@@ -4,11 +4,17 @@
 * worksheet 1: https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/CH_01_Worksheet_1.pdf 
 * worksheet 2: https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/CH_01_Worksheet_2.pdf 
 #### part 2 project -- image 
-* see 1.2 Character codes
+* see 1.3 vector graph v.s. bitmap image
+Submit (1) your code and (2) research report for project image here:
+
+Daniel, [Nico](https://github.com/jby0107/Homework/tree/image), Jack, James, Brian, Tim, [Lisa](https://github.com/ZeroxAlone/Diagram), Cathy, Julian, Shirley, Andy, Harry 
 
 #### part 3 project -- music
-* see 1.3 sound
+* see 1.4 sound
 
+Submit (1) your code and (2) research report for project music here:
+
+Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry 
 
 ### 1.1 Number systems
 *  M-base number to N-base number conversion
@@ -62,11 +68,9 @@ C. Image format in details: bmp, jpg(jpeg), png, gif, webp
 * 4. Write a brief report of different image formats: bmp, jpg(jpeg), png, gif, webp, use a big table to show your results.
 * 5. Use python matplotlib to create an image (refer to point 2) and save it as different format, compare the image file size, think about why and write your results.
 
-Submit (1) your code and (2) research report for part ABC together here:
 
-Daniel, [Nico](https://github.com/jby0107/Homework/tree/image), Jack, James, Brian, Tim, [Lisa](https://github.com/ZeroxAlone/Diagram), Cathy, Julian, Shirley, Andy, Harry 
 
-### 1.3 Sound 
+### 1.4 Sound 
 #### project sound
 * Reference: https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/Sound%20Wave.rar
 * create your own garage band: 探究项目——音频，project music， 用程序创作音乐。要求：为每个音符创建对应频率的sin函数，参见ppt的基本例子。最基本要求，是单声部，用户输入简谱，或者从文件读简谱，计算机生成音乐并自动播放。期待有同学可以做出多声部，甚至不同的乐器效果。总之就是要打造自己的garage band。 ddl同上。
