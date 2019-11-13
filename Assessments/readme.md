@@ -24,7 +24,7 @@ Daniel, [Nico](https://github.com/jby0107/Homework/tree/image), Jack, James, Bri
 
 Submit (1) your code and (2) research report for project music here:
 
-Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry 
+Daniel, Nico, Jack, James, Brian, Tim, [Lisa](https://github.com/ZeroxAlone/Diagram/tree/master/SoundWave), Cathy, Julian, Shirley, Andy, Harry 
 
 ### 1.1 Number systems
 *  M-base number to N-base number conversion
