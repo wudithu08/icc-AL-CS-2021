@@ -17,7 +17,7 @@ Daniel, Nico, Jack, James, [Brian](https://github.com/BrianShan974/Hello-World/t
 * see 1.3 vector graph v.s. bitmap image
 Submit (1) your code and (2) research report for project image here:
 
-Daniel, [Nico](https://github.com/jby0107/Homework/tree/image), Jack, James, [Brian](https://github.com/BrianShan974/Hello-World/tree/small-project), Tim, [Lisa](https://github.com/ZeroxAlone/Diagram), Cathy, Julian, Shirley, Andy, Harry 
+Daniel, [Nico](https://github.com/jby0107/Homework/tree/image), Jack, James, [Brian](https://github.com/BrianShan974/Hello-World/tree/small-project), Tim, [Lisa](https://github.com/ZeroxAlone/Diagram), Cathy, Julian, Shirley, [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2019-11-10), Harry 
 
 #### part 3 project -- music
 * see 1.4 sound
