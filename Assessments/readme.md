@@ -1,4 +1,14 @@
 # Chapter 1 information representation
+### homework 11.11-11.13 , ddl: 11.13 Wednesday 1pm
+implement your own RLE, including encoding and decoding
+* You are not allowed to use built in functions in python
+* References: http://www.fileformat.info/mirror/egff/ch09_03.htm, https://stackabuse.com/run-length-encoding/
+Submit your code here:
+
+Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry 
+
+
+
 ### homework 11.8-11.10 are listed below, ddl: 11.11 Monday 8:00am
 #### part 1 worksheet
 * worksheet 1: https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/CH_01_Worksheet_1.pdf 
