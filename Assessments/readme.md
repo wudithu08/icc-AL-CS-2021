@@ -1,4 +1,16 @@
 # Chapter 1 information representation
+
+### in class project: video analysis in python, optical flow etc
+Reference:
+* https://github.com/JimmyHHua/opencv_tutorials 
+* https://github.com/JimmyHHua/opencv_tutorials/tree/master/python/code_084  视频分析1
+* https://github.com/JimmyHHua/opencv_tutorials/tree/master/python/code_085   视频分析2
+* https://github.com/JimmyHHua/opencv_tutorials/tree/master/python/code_086  稠密光流
+* https://github.com/JimmyHHua/opencv_tutorials/blob/master/python/code_087/opencv_087.py  
+
+* capture your own video:  use the code I sent you before
+
+
 ### homework 11.11-11.13 , ddl: 11.13 Wednesday 1pm
 implement your own RLE, including encoding and decoding
 * You are not allowed to use built in functions in python
