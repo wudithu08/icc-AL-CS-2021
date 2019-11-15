@@ -1,5 +1,8 @@
 # Chapter 1 information representation
 
+* worksheet 1: https://github.com/wudithu08/icc-AL-CS-2021/blob/master/worksheet_CH1.pdf
+* worksheet 1 mark scheme: https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Worksheet%20ch1-MS.pdf
+
 ### in class project: video analysis in python, optical flow etc
 Reference:
 * https://github.com/JimmyHHua/opencv_tutorials 
