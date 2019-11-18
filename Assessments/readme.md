@@ -1,7 +1,7 @@
 # Chapter 4 logic gates and logic circuits
 ### programming project: create your own logic gates and adder in python (DDL: Nov 21 8am)
 * logic gates include NOT, AND, OR, NAND, NOR, XOR, and allow the user to do any combinations with no more than 4 inputs, the program will output the truth table automatically
-* logic gates to build an adder, a half adder is compulsory, a full adder is optional with bonus.
+* logic gates to build an adder, a half adder(4 bits input, 5 bits output -- the additional one is the carry bit) is compulsory, a full adder (8 bits input, 9 bits output -- the additional one is the carry bit) is optional with bonus.
 * Reference for you:
 * 1. https://www.codespeedy.com/logic-gates-in-python/
 * 2. https://pythonlessons.net/python-logic-gates/ 
