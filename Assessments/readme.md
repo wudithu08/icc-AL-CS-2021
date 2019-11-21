@@ -8,7 +8,7 @@
 * 3. http://www.openbookproject.net/courses/python4fun/logic.html 
 * 4. for OOP in python: http://openbookproject.net/thinkcs/python/english3e/classes_and_objects_I.html
 
-submit your code here: Daniel, [Nico](https://github.com/jby0107/Homework/tree/hw-11.20), Jack, James, Brian, Tim, [Lisa](https://github.com/ZeroxAlone/191120), Cathy, [Julian](https://github.com/GodspeedyJulian/11.21), Shirley, [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2019-11-21), Harry 
+submit your code here: Daniel, [Nico](https://github.com/jby0107/Homework/tree/hw-11.20), [Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK), James, Brian, Tim, [Lisa](https://github.com/ZeroxAlone/191120), Cathy, [Julian](https://github.com/GodspeedyJulian/11.21), Shirley, [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2019-11-21), Harry 
 
 # Chapter 1 information representation
 
