@@ -1,6 +1,6 @@
 # Chapter 4 logic gates and logic circuits
-#### chapter 4 worksheet191121 with ms  
-#### chapter 1 worksheet191122 with ms
+#### [chapter 4 worksheet191121 with ms](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/CH4-worksheet-pp-ms.pdf)  
+#### [chapter 1 worksheet191122 with ms](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/worksheet2-ch1-20191122.pdf)
 ### programming project: create your own logic gates and adder in python (DDL: Nov 21 8am)
 * logic gates include NOT, AND, OR, NAND, NOR, XOR, and allow the user to do any combinations with no more than 4 inputs, the program will output the truth table automatically
 * logic gates to build an adder, a half adder(4 bits input, 5 bits output -- the additional one is the carry bit) is compulsory, a full adder (8 bits input, 9 bits output -- the additional one is the carry bit) is optional with bonus.
