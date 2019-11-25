@@ -1,3 +1,13 @@
+# chapter 5 processor fundamantals
+### simple CPU lab
+* lab tutorial and worksheet: https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/LabCH07.pdf 
+* lab software: https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/Super%20Simple%20CPU.jar 
+
+### class assignment -- 20191125
+* [video 1](https://www.bilibili.com/video/av57954429?from=search&seid=8818817223855490013), [video2](https://www.bilibili.com/video/av57954856/?spm_id_from=333.788.videocard.0), [video 3](https://www.bilibili.com/video/av57955234/?spm_id_from=333.788.videocard.1)
+* Class assignment: notes of the 3 videos linked with our learning objective. Show your understanding and your doubts
+
+
 # Chapter 4 logic gates and logic circuits
 #### [chapter 4 worksheet191121 with ms](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/CH4-worksheet-pp-ms.pdf)  
 #### [chapter 1 worksheet191122 with ms](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/worksheet2-ch1-20191122.pdf)
