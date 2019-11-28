@@ -10,6 +10,14 @@
 * [tutorial videos made by previous students](http://pan.rdfz.cn:80/#/link/C69B33B1681C0F478B73978AF44D3CBF)
 * Class assignment: notes of the 3 videos linked with our learning objective. Show your understanding and your doubts
 
+work in paris to create a list of key terms and their explanations for the whole chapter, submit your work here:
+* Daniel, Andy
+* Jack, Cathy, James
+* Brian, Lisa
+* Julian, Harry
+* Nico, Shirley
+
+
 
 # Chapter 4 logic gates and logic circuits
 #### [chapter 4 worksheet191121 with ms](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/CH4-worksheet-pp-ms.pdf)  
