@@ -7,6 +7,7 @@
 
 ### class assignment -- 20191125
 * [video 1](https://www.bilibili.com/video/av57954429?from=search&seid=8818817223855490013), [video2](https://www.bilibili.com/video/av57954856/?spm_id_from=333.788.videocard.0), [video 3](https://www.bilibili.com/video/av57955234/?spm_id_from=333.788.videocard.1)
+* [tutorial videos made by previous students](http://pan.rdfz.cn:80/#/link/C69B33B1681C0F478B73978AF44D3CBF)
 * Class assignment: notes of the 3 videos linked with our learning objective. Show your understanding and your doubts
 
 
