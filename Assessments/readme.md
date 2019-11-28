@@ -1,4 +1,6 @@
 # chapter 5 processor fundamantals
+### Key points in chapter 5
+* skeleton PPT for you: https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/CH_05_PowerPoint.ppt
 ### simple CPU lab
 * lab tutorial and worksheet: https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/LabCH07.pdf 
 * lab software: https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/Super%20Simple%20CPU.jar 
