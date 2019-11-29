@@ -10,12 +10,12 @@
 * [tutorial videos made by previous students](http://pan.rdfz.cn:80/#/link/C69B33B1681C0F478B73978AF44D3CBF)
 * Class assignment: notes of the 3 videos linked with our learning objective. Show your understanding and your doubts
 
-work in paris to create a list of key terms and their explanations for the whole chapter, submit your work here:
-* Daniel, Andy
-* Jack, Cathy, James
-* Brian, Lisa
-* Julian, Harry
-* Nico, Shirley
+work in paris to (1) create a list of key terms and their explanations for the whole chapter, (2) complete lab simpleCPU exploration #1, (3) complete lab simpleCPU exploration based on your assigned group, submit your work here:
+* Daniel, Andy: list doc of key terms,  exploration #1, lab simpleCPU # 2
+* Jack, Cathy, James: list doc of key terms, exploration #1, lab simpleCPU # 3
+* Brian, Lisa: list doc of key terms, exploration #1, lab simpleCPU # 4
+* Julian, Harry: list doc of key terms,  exploration #1, lab simpleCPU # 5
+* Nico, Shirley: list doc of key terms, exploration #1, lab simpleCPU # 6
 
 
 
