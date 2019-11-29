@@ -13,7 +13,7 @@
 work in paris to (1) create a list of key terms and their explanations for the whole chapter, (2) complete lab simpleCPU exploration #1, (3) complete lab simpleCPU exploration based on your assigned group, submit your work here:
 * Daniel, Andy: list doc of key terms,  exploration #1, lab simpleCPU # 2
 * Jack, Cathy, James: list doc of key terms, exploration #1, lab simpleCPU # 3
-* Brian, Lisa: list doc of key terms, exploration #1, lab simpleCPU # 4
+* Brian, Lisa: list doc of key terms, [exploration #1](https://github.com/BrianShan974/Hello-World/tree/exploration-of-cpu), [lab simpleCPU # 4](https://github.com/BrianShan974/Hello-World/tree/exploration-of-cpu)
 * Julian, Harry: list doc of key terms,  exploration #1, lab simpleCPU # 5
 * Nico, Shirley: list doc of key terms, exploration #1, lab simpleCPU # 6
 
