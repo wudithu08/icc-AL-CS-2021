@@ -11,10 +11,10 @@
 * Class assignment: notes of the 3 videos linked with our learning objective. Show your understanding and your doubts
 
 work in paris to (1) create a list of key terms and their explanations for the whole chapter, (2) complete lab simpleCPU exploration #1, (3) complete lab simpleCPU exploration based on your assigned group, submit your work here:
-* Daniel, Andy: list doc of key terms,  exploration #1, lab simpleCPU # 2
+* Daniel, Andy: [list doc of key terms](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2019-11-29),  exploration #1, lab simpleCPU # 2
 * Jack, Cathy, James: list doc of key terms, exploration #1, lab simpleCPU # 3
 * Brian, Lisa: [list doc of key terms](https://github.com/ZeroxAlone/CH5), [exploration #1](https://github.com/BrianShan974/Hello-World/tree/exploration-of-cpu), [lab simpleCPU # 4](https://github.com/BrianShan974/Hello-World/tree/exploration-of-cpu)
-* [Julian, Harry](https://github.com/GodspeedyJulian/11.29): list doc of key terms,  exploration #1, lab simpleCPU # 5
+* Julian, Harry: list doc of key terms,  exploration #1, lab simpleCPU # 5
 * Nico, Shirley: list doc of key terms, exploration #1, lab simpleCPU # 6
 
 
