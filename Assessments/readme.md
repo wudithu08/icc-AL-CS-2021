@@ -15,7 +15,7 @@ work in paris to (1) create a list of key terms and their explanations for the w
 * Jack, Cathy, James: [list doc of key terms](https://github.com/JamessssLiu/project-and-work-of-ICC-AL-CS-course-James-Liu/tree/master/Ch5%20summary), exploration #1, lab simpleCPU # 3
 * Brian, Lisa: [list doc of key terms](https://github.com/ZeroxAlone/CH5), [exploration #1](https://github.com/BrianShan974/Hello-World/tree/exploration-of-cpu), [lab simpleCPU # 4](https://github.com/BrianShan974/Hello-World/tree/exploration-of-cpu)
 * Julian, Harry: list doc of key terms,  exploration #1, lab simpleCPU # 5
-* Nico, Shirley: list doc of key terms, exploration #1, lab simpleCPU # 6
+* Nico, Shirley: [list doc of key terms](https://github.com/jby0107/Homework/blob/Class-11.29/key%20term%20list.docx), exploration #1, [lab simpleCPU # 6](https://github.com/jby0107/Homework/blob/Class-11.29/6.docx)
 
 
 
