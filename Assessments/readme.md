@@ -1,6 +1,7 @@
 # 2020 Jan end term exam review coding exercises: program the following 7 questions in python based on exam requirements. (create a folder in your own github page, submit the link of the folder)
 * s-2017-qp-23: 5,6
 * s-2018-qp-21: 2,3,5c,6b,7
+
 submit your folder link here: Daniel, Nico, Jack, James, Brian, Lisa, Cathy, Julian, Shirley, Andy, Harry
 
 # chapter 5 processor fundamantals
