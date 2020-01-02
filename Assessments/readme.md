@@ -2,7 +2,7 @@
 * s-2017-qp-23: 5,6
 * s-2018-qp-21: 2,3,5c,6b,7
 
-submit your folder link here: Daniel, Nico, Jack, James, Brian, Lisa, Cathy, Julian, Shirley, Andy, Harry
+submit your folder link here: Daniel, [Nico](https://github.com/jby0107/Homework/tree/%E6%9C%9F%E6%9C%AB), Jack, James, Brian, Lisa, Cathy, Julian, Shirley, Andy, Harry
 
 # chapter 5 processor fundamantals
 ### Key points in chapter 5
