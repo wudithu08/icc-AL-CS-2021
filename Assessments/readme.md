@@ -2,7 +2,7 @@
 * s-2017-qp-23: 5,6
 * s-2018-qp-21: 2,3,5c,6b,7
 
-submit your folder link here: Daniel, [Nico](https://github.com/jby0107/Homework/tree/%E6%9C%9F%E6%9C%AB), [Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK), James, Brian, Lisa, [Cathy](https://github.com/CathyYang1118/homework/tree/2020/1), Julian, Shirley, [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2020-1-2), Harry
+submit your folder link here: Daniel, [Nico](https://github.com/jby0107/Homework/tree/%E6%9C%9F%E6%9C%AB), [Jack](https://github.com/jyd1222/Jack-s-homework/tree/Daily-HK), James, Brian, [Lisa](https://github.com/ZeroxAlone/200102), [Cathy](https://github.com/CathyYang1118/homework/tree/2020/1), Julian, Shirley, [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2020-1-2), Harry
 
 # chapter 5 processor fundamantals
 ### Key points in chapter 5
