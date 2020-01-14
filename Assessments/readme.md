@@ -22,7 +22,7 @@ https://github.com/wudithu08/icc-AL-CS-2021/blob/master/demo.html
 # 2020 Jan Semester exam 
 * homework: program the last question 
 
-submit your code here: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2020-1-14), Harry 
+submit your code here: Daniel, Nico, Jack, James, Brian, Tim, [Lisa](https://github.com/ZeroxAlone/200113), Cathy, Julian, Shirley, [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2020-1-14), Harry 
 
 
 # 2020 Jan end term exam review coding exercises: program the following 7 questions in python based on exam requirements. (create a folder in your own github page, submit the link of the folder)
