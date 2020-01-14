@@ -1,3 +1,30 @@
+# 2020 Jan.17-Feb.16 winter holiday homework
+* [Homework compiled](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Holiday%20Homework%20S2%20AS%20Computer%20Science%20Winter%202020.pdf)
+* References:
+
+HTML: https://www.w3school.com.cn/html/index.asp 
+
+JS: https://www.w3school.com.cn/js/index.asp
+
+PHP: https://www.w3school.com.cn/php/index.asp
+
+安装 php 软件，https://windows.php.net/download/ 或者 https://www.apachefriends.org/zh_cn/download.html
+
+* Demo code: 
+https://github.com/wudithu08/icc-AL-CS-2021/blob/master/demophp.php 
+
+https://github.com/wudithu08/icc-AL-CS-2021/blob/master/demo.php
+
+https://github.com/wudithu08/icc-AL-CS-2021/blob/master/demo.html
+
+
+
+# 2020 Jan Semester exam 
+* homework: program the last question 
+
+submit your code here: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry 
+
+
 # 2020 Jan end term exam review coding exercises: program the following 7 questions in python based on exam requirements. (create a folder in your own github page, submit the link of the folder)
 * s-2017-qp-23: 5,6
 * s-2018-qp-21: 2,3,5c,6b,7
