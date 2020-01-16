@@ -1,24 +1,24 @@
 # 2020 Jan.17-Feb.16 winter holiday homework
-* 1. [Homework compiled](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Holiday%20Homework%20S2%20AS%20Computer%20Science%20Winter%202020.pdf)
-* 1.1  Intensive Reading:Read Chapter 3 and Chapter 9
+####  [Basic Homework compiled](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Holiday%20Homework%20S2%20AS%20Computer%20Science%20Winter%202020.pdf),  ddl: Feb 2, 2020
+* 1.1  Intensive Reading:Read Chapter 3 and Chapter 9  
 * 1.2  Using chapter 3 make a presentation on How the following devices work? The working must be
 explained using bulleted points. see the file for details
 * 1.3  Programming: Using HTML, Javascript and PHP make simple web pages. You can refer to chapter 2 Page no.31 for reference, also the references below. 
 
 submit your work here: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry 
 
-* 2. Read the book《改变未来的九大算法》, write reading notes and reflection of the book. Word count > 600
+####  Read the book《改变未来的九大算法》, write reading notes and reflection of the book. Word count > 600, ddl: Feb 9, 2020
 
 submit your work here: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry 
 
-* 3. Paper 2 pre-release materials (in total 9) reasearch study. Requirements: investigate and implement all questions. 
+####  Paper 2 pre-release materials (in total 9) reasearch study. Requirements: investigate and implement all questions. ddl: Feb 16, 2020
 [Download all the pre-release materials here.](https://github.com/wudithu08/icc-AL-CS-2021/tree/master/Assessments/pre-releaseMaterial-Paper2)
 
 submit your work here: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry 
 
 * You will present all your website in the first class next semester. Feb 17th 2020.
 
-### HTML + JS + PHP
+####  HTML + JS + PHP
 * References:
 
 HTML: https://www.w3school.com.cn/html/index.asp 
