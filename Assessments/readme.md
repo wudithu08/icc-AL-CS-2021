@@ -1,21 +1,38 @@
 # 2020 Jan.17-Feb.16 winter holiday homework
-* [Homework compiled](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Holiday%20Homework%20S2%20AS%20Computer%20Science%20Winter%202020.pdf)
+* 1. [Homework compiled](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Holiday%20Homework%20S2%20AS%20Computer%20Science%20Winter%202020.pdf)
+* 1.1 
+* 1.2 
+* 1.3 
+
+submit your work here: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry 
+
+* 2. Read the book, write reading notes and reflection of the book. Word count > 600
+
+submit your work here: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry 
+
+* 3. Paper 2 pre-release materials reasearch study. Requirements: investigate and implement all questions. 
+Download all the pre-release materials here.
+
+submit your work here: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry 
+
+### HTML + JS + PHP
 * References:
 
 HTML: https://www.w3school.com.cn/html/index.asp 
 
 JS: https://www.w3school.com.cn/js/index.asp
 
-PHP: https://www.w3school.com.cn/php/index.asp
-
-安装 php 软件，https://windows.php.net/download/ 或者 https://www.apachefriends.org/zh_cn/download.html
+PHP: https://www.w3school.com.cn/php/index.asp , [install software XAMPP]( https://www.apachefriends.org/zh_cn/download.html)
 
 * Demo code: 
-https://github.com/wudithu08/icc-AL-CS-2021/blob/master/demophp.php 
+[HTML+PHP] (https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/demo.html)
 
-https://github.com/wudithu08/icc-AL-CS-2021/blob/master/demo.php
+[PHP+JS] (https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/demo.php)
 
-https://github.com/wudithu08/icc-AL-CS-2021/blob/master/demo.html
+[HTML+PHP+JS] (https://github.com/wudithu08/icc-AL-CS-2021/blob/master/Assessments/files/demophp.php) 
+
+
+
 
 
 
