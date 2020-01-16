@@ -41,7 +41,7 @@ PHP: https://www.w3school.com.cn/php/index.asp , [install software XAMPP]( https
 # 2020 Jan Semester exam 
 * homework: program the last question 
 
-submit your code here: Daniel, [Nico](https://github.com/jby0107/Homework/tree/hw-2020.1.14), Jack, James, Brian, Tim, [Lisa](https://github.com/ZeroxAlone/200113), [Cathy](https://github.com/CathyYang1118/homework/tree/2020/1), Julian, Shirley, [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2020-1-14), Harry 
+submit your code here: Daniel, [Nico](https://github.com/jby0107/Homework/tree/hw-2020.1.14), Jack, James, Brian, Tim, [Lisa](https://github.com/ZeroxAlone/200113), [Cathy](https://github.com/CathyYang1118/homework/tree/2020/1), [Julian](https://github.com/GodspeedyJulian/1.14), Shirley, [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2020-1-14), Harry 
 
 
 # 2020 Jan end term exam review coding exercises: program the following 7 questions in python based on exam requirements. (create a folder in your own github page, submit the link of the folder)
