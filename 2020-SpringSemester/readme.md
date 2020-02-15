@@ -11,16 +11,18 @@
 * Day 3: Task 3 and 4 Pre-Release material – Key Focus:  Programs containing several components (File processing) 
 
 [your work]
+* pre-work for Day 1: complete [compiled past paper questions for Task 1--Structure Chart](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/section%202/structureCharts-qp.pdf)  -- before 2.17 2pm
+
 * pre-work for Day 2: past paper questions related to Task 2
 2015M-Andy&N-Daniel,2016M-Julian&N-Lisa,2017M-Shirley&N-Jack,2018M-Harry&N-Brian,2019M-James, Summary of all -- Cathy & Nico 
-everyone is assigned 3 papers or summary work. 
+everyone is assigned 3 papers or summary work.  
 
-Please put the questions and mark scheme in the shared document:
-https://shimo.im/docs/dqd3D9v8wxPvDvT9 
+Please put the questions and mark scheme in the shared document and can teach others about the questions you are responsible for:
+https://shimo.im/docs/dqd3D9v8wxPvDvT9  before 2.19 2am
 
 * pre-work for Day 3: past paper questions related to Task 3&4
 2015M-Andy&N-Daniel,2016M-Julian&N-Lisa,2017M-Shirley&N-Jack,2018M-Harry&N-Brian,2019M-James, Summary of all -- Cathy & Nico 
 everyone is assigned 3 papers or summary work. 
 
-Please put the questions and mark scheme in the shared document:
-https://shimo.im/docs/gKTQvrDqyKVrqDHD/ 
+Please put the questions and mark scheme in the shared document and can teach others about the questions you are responsible for:
+https://shimo.im/docs/gKTQvrDqyKVrqDHD/   before 2.21 8am
