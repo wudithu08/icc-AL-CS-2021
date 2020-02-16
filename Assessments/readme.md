@@ -5,7 +5,7 @@
 explained using bulleted points. see the file for details
 * 1.3  Programming: Using HTML, Javascript and PHP make simple web pages. You can refer to chapter 2 Page no.31 for reference, also the references below. 
 
-submit your work here: Daniel, Nico, [Jack](https://github.com/jyd1222/Jack-s-homework/tree/master), James, Brian, Tim, [Lisa](https://github.com/ZeroxAlone/20WVHW), Cathy, [Julian](https://github.com/GodspeedyJulian/1.31), Shirley, Andy, Harry 
+submit your work here: Daniel, [Nico](https://github.com/jby0107/Homework/tree/winterholiday), [Jack](https://github.com/jyd1222/Jack-s-homework/tree/master), James, Brian, Tim, [Lisa](https://github.com/ZeroxAlone/20WVHW), Cathy, [Julian](https://github.com/GodspeedyJulian/1.31), Shirley, Andy, Harry 
 
 ####  Homework 2--ddl: Feb 9, 2020: Read the book《改变未来的九大算法》, write reading notes and reflection of the book. Word count > 600, 
 
