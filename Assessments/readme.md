@@ -9,12 +9,12 @@ submit your work here: [Daniel](https://github.com/Yuudachi530/Assignment/tree/m
 
 ####  Homework 2--ddl: Feb 9, 2020: Read the book《改变未来的九大算法》, write reading notes and reflection of the book. Word count > 600, 
 
-submit your work here: [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/%E4%B9%9D%E5%A4%A7%E7%AE%97%E6%B3%95), Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry 
+submit your work here: [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/%E4%B9%9D%E5%A4%A7%E7%AE%97%E6%B3%95), Nico, Jack, James, Brian, Tim, [Lisa](https://github.com/ZeroxAlone/20WVHW), Cathy, Julian, Shirley, Andy, Harry 
 
 #### Homework 3 --ddl: Feb 16, 2020:  Paper 2 pre-release materials (in total 9) reasearch study. Requirements: investigate and implement all questions. 
 [Download all the pre-release materials here.](https://github.com/wudithu08/icc-AL-CS-2021/tree/master/Assessments/pre-releaseMaterial-Paper2)
 
-submit your work here: Daniel, Nico, Jack, James, Brian, Tim, Lisa, Cathy, Julian, Shirley, Andy, Harry 
+submit your work here: Daniel, Nico, Jack, James, Brian, Tim, [Lisa](https://github.com/ZeroxAlone/20WVHW), Cathy, Julian, Shirley, Andy, Harry 
 
 * You will present all your website in the first class next semester. Feb 17th 2020.
 
