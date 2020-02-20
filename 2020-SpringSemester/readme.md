@@ -15,7 +15,7 @@
 * Array sorting, e.g. bubble sort [w17-21-Q3a]
 * Array find duplicates [w17-21-Q3b]
   
-#####Day 3: Task 3 and 4 Pre-Release material – Key Focus:  Programs containing several components (File processing) 
+##### Day 3: Task 3 and 4 Pre-Release material – Key Focus:  Programs containing several components (File processing) 
 
 ##### pre-work
 * pre-work for Day 1: complete [compiled past paper questions for Task 1--Structure Chart](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/section%202/structureCharts-qp.pdf)  -- before 2.17 2pm
