@@ -1,7 +1,11 @@
 ### Your target in 2020 May CS exam is 90% 
 * [teaching plan for the first two weeks](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/section%202/A%20Level%20Computer%20Science%20OLP%20CSAS-2.docx)
 * past papers can be downloaded from here: https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Computer%20Science%20(9608)/ 
-
+* lesson materials can be downloaded from here： http://pan.rdfz.cn:80/#/link/F8F8CD54A002E3D23CA6A4D82968AFA0
+访问密码：jMcv
+有效期限截止：2020-2-27
+ 
+ 
 #### Week 1: paper 2 pre-release material 
 [2020 AS CS paper 2 pre-release material](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/section%202/9608_S20_PM_23.pdf)
 ##### Day 1: Task 1 Pre-Release material- Key Focus: Structure Charts  [compiled past paper questions](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/section%202/structureCharts-qp.pdf)
