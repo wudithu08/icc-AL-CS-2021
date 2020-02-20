@@ -5,8 +5,15 @@
 #### Week 1: paper 2 pre-release material 
 [2020 AS CS paper 2 pre-release material](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/section%202/9608_S20_PM_23.pdf)
 * Day 1: Task 1 Pre-Release material- Key Focus: Structure Charts  [compiled past paper questions](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/section%202/structureCharts-qp.pdf)
+* 5 key features of structure charts: Hierarchy, squence, iteration, selection, parameters/interface.
+* modular design/programming benefits? 
         
 * Day 2: Task 2 Pre-Release material – Key Focus:  Algorithms, Arrays and Pseudocode 
+* Array declaration [s19-23-Q4]
+* Array search for a specific value, output index -- cipher/decipher [s16-23-Q3]
+* Array traversal: min, max, average etc. [s19-21-Q3]
+* Array sorting, e.g. bubble sort [w17-21-Q3a]
+* Array find duplicates [w17-21-Q3b]
   
 * Day 3: Task 3 and 4 Pre-Release material – Key Focus:  Programs containing several components (File processing) 
 
@@ -19,6 +26,10 @@ everyone is assigned 3 papers or summary work.
 
 Please put the questions and mark scheme in the shared document and can teach others about the questions you are responsible for:
 https://shimo.im/docs/dqd3D9v8wxPvDvT9  before 2.19 2am
+
+* homework for 2020-02-20: please write pseudocode on paper and python code on your computer for the follow past paper problems and submit your work below. 
+(1) [s16-23-Q3]    (2)[w17-21-Q3a]   (3)[w17-21-Q3b]     (4)[s19-21-Q3]
+* submit your work here: Andy, Brian, Cathy, Daniel, Harry, Jack, James, Julian, Lisa, Nico, Shirley.  ddl: Feb 23 6pm.
 
 * pre-work for Day 3: past paper questions related to Task 3&4
 2015M-Andy&N-Daniel,2016M-Julian&N-Lisa,2017M-Shirley&N-Jack,2018M-Harry&N-Brian,2019M-James, Summary of all -- Cathy & Nico 
