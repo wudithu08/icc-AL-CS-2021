@@ -20,7 +20,7 @@
 * Array find duplicates [w17-21-Q3b]
   
 ##### Day 3: Task 3 and 4 Pre-Release material – Key Focus:  Programs containing several components (File processing) 
-######Task 3&4 File processing class assignment
+###### Task 3&4 File processing class assignment
 based on the file: "BookInfo.txt", complete the following tasks using python. 
 You might also need to write pseudocode on the paper for some of the questions. 
 
