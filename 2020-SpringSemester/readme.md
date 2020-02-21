@@ -24,7 +24,7 @@
 based on the file: "BookInfo.txt", complete the following tasks using python. 
 You might also need to write pseudocode on the paper for some of the questions. 
 
-You will complete 
+* You will complete 
 * write program code for Question 1 and 2 in P3  30 min  -- submit to github, add your link
 ** submit your work here: Andy, Brian, Cathy, Daniel, Harry, Jack, James, Julian, Lisa, Nico, Shirley. 
 
@@ -33,21 +33,21 @@ You will complete
 
 * write pseudocode for Question 3b on paper and -- submit to wechat group
 
-* Q1
-A library maintains a list of books. The list is saved in a text file "BookInfo.txt", where each line of the file represents one book. The information for each book now contains the title and the author.  Please read each line of the file and output the book list in the following format on the screen:
+###### Q1
+* A library maintains a list of books. The list is saved in a text file "BookInfo.txt", where each line of the file represents one book. The information for each book now contains the title and the author.  Please read each line of the file and output the book list in the following format on the screen:
 #01  book author: Kevin Houston, book title:"How to Think Like a Mathematician: A Companion to Undergraduate Mathematics”
 (there are 21 books in the file, so the output should have 21 lines, the number will be #01 till #21)
 
-* Q2
-create a new file named "BookInfo_new.txt", which will contain a new field--the number of copies of each book. Let's assume the number of copies equals ascii value of the first character of the author's last name. For example, the first book "Kevin Houston, How to Think Like a Mathematician: A Companion to Undergraduate Mathematics" the author name is "Kevin Houston", the first char of the last name is "H", so the number of copies of this book is the ascii value of "H" which is 72. 
+###### Q2
+* create a new file named "BookInfo_new.txt", which will contain a new field--the number of copies of each book. Let's assume the number of copies equals ascii value of the first character of the author's last name. For example, the first book "Kevin Houston, How to Think Like a Mathematician: A Companion to Undergraduate Mathematics" the author name is "Kevin Houston", the first char of the last name is "H", so the number of copies of this book is the ascii value of "H" which is 72. 
 SO you will write the following in the first line of the "BookInfo_new.txt" file:
 #01  book title:"How to Think Like a Mathematician: A Companion to Undergraduate Mathematics”, number of copies: 72.
 
-* Q3
-create a menu interface for your program, when start your program, there will be text menu on your screen:
-Add a new book to the text file, press 1
-Search for books written by a given author, press 2
-End the program, press 3
+###### Q3
+* create a menu interface for your program, when start your program, there will be text menu on your screen:
+* --Add a new book to the text file, press 1
+* --Search for books written by a given author, press 2
+* --End the program, press 3
    * (a) implement the function addNewBook(). It will prompt the user to input the author name and book title for the new book, and write the new book info into "BookInfo.txt". Note, the you need to verify the input string to make sure it is not empty.
    * (b) implement the function SearchBookByAuthor().  It will Output the title of any books found. If no books by the given author are found it will output a message: "sorry, there is no book by this author."  
    * (c) put all your code together to create the fully functioning library menu interface. 
