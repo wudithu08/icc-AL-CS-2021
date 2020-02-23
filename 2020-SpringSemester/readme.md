@@ -73,4 +73,4 @@ https://shimo.im/docs/gKTQvrDqyKVrqDHD/   before 2.21 8am
 ##### homework for 2020-02-20
 * please write pseudocode on paper and python code on your computer for the follow past paper problems and submit your work below. 
 (1) [s16-23-Q3]    (2)[w17-21-Q3a]   (3)[w17-21-Q3b]     (4)[s19-21-Q3]
-* submit your work here: Andy, Brian, Cathy, [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/Coding%20Practice2.21/2.20hw), Harry, [Jack](https://github.com/jyd1222/Jack-s-homework/tree/homework-for-2020-02-20), James, [Julian](https://github.com/GodspeedyJulian/2.22), Lisa, [Nico](https://github.com/jby0107/Homework/tree/2020.2.23/2020.2.23), Shirley.  ddl: Feb 23 6pm.
+* submit your work here: Andy, Brian, Cathy, [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/Coding%20Practice2.21/2.20hw), Harry, [Jack](https://github.com/jyd1222/Jack-s-homework/tree/homework-for-2020-02-20), James, [Julian](https://github.com/GodspeedyJulian/2.22), [Lisa](https://github.com/ZeroxAlone/200223), [Nico](https://github.com/jby0107/Homework/tree/2020.2.23/2020.2.23), Shirley.  ddl: Feb 23 6pm.
