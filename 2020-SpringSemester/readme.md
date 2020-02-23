@@ -26,10 +26,10 @@ You might also need to write pseudocode on the paper for some of the questions.
 
 * You will complete 
 * write program code for Question 1 and 2 in P3  30 min  -- submit to github, add your link
-** submit your work here: Andy, Brian, Cathy, [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/Coding%20Practice2.21/2.21hw), Harry, [Jack](https://github.com/jyd1222/Jack-s-homework/tree/master), James, [Julian](https://github.com/GodspeedyJulian/2.23), [Lisa](https://github.com/ZeroxAlone/200221), [Nico](https://github.com/jby0107/Homework/tree/2020.2.21/2020.2.21), [Shirley](https://github.com/ShirleyAiko/S2/tree/S2Spring/Week1). 
+** submit your work here: [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2020-2-21), Brian, Cathy, [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/Coding%20Practice2.21/2.21hw), Harry, [Jack](https://github.com/jyd1222/Jack-s-homework/tree/master), James, [Julian](https://github.com/GodspeedyJulian/2.23), [Lisa](https://github.com/ZeroxAlone/200221), [Nico](https://github.com/jby0107/Homework/tree/2020.2.21/2020.2.21), [Shirley](https://github.com/ShirleyAiko/S2/tree/S2Spring/Week1). 
 
 * write program code for  Question 3 in P4  30 min -- submit to github, add your link
-** submit your work here: Andy, Brian, Cathy, [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/Coding%20Practice2.21/2.21hw), Harry, [Jack](https://github.com/jyd1222/Jack-s-homework/tree/master), James, [Julian](https://github.com/GodspeedyJulian/2.23), [Lisa](https://github.com/ZeroxAlone/200221), [Nico](https://github.com/jby0107/Homework/tree/2020.2.21/2020.2.21), [Shirley](https://github.com/ShirleyAiko/S2/tree/S2Spring/Week1). 
+** submit your work here: [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2020-2-21), Brian, Cathy, [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/Coding%20Practice2.21/2.21hw), Harry, [Jack](https://github.com/jyd1222/Jack-s-homework/tree/master), James, [Julian](https://github.com/GodspeedyJulian/2.23), [Lisa](https://github.com/ZeroxAlone/200221), [Nico](https://github.com/jby0107/Homework/tree/2020.2.21/2020.2.21), [Shirley](https://github.com/ShirleyAiko/S2/tree/S2Spring/Week1). 
 
 * write pseudocode for Question 3b on paper and -- submit to wechat group
 
