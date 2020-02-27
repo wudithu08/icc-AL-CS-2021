@@ -13,11 +13,12 @@ Homework: worksheet 1, worksheet 2(optional)
 Homework: 
 * 1. Print out the worksheet of ch8 past papers and write on it as in an exam.  ddl:Feb 28 8am
 * 2. Algorithm and program, ddl: Sunday Mar 1st 6pm
-   * * [code] Implement parity check- odd parity
-   * * [code] Implement parity check with autocorrection-odd parity
-   * * [code] Implement check sum
-   * * [code] Implement ISBN check check digit, see the doc I sent you.
-   * * submit your code here: Andy,Brian,	Cathy,	Daniel,	Harry,	Jack,	James,	Julian,	Lisa,	Nico,	Shirley
+   *  [code] Implement parity check- odd parity
+   *  [code] Implement parity check with autocorrection-odd parity
+   *  [code] Implement check sum
+   *  [code] Implement ISBN check check digit, see the doc I sent you.
+   
+   -- submit your code here: Andy,Brian,	Cathy,	Daniel,	Harry,	Jack,	James,	Julian,	Lisa,	Nico,	Shirley
 
 ##### Day 3: review lesson
 
