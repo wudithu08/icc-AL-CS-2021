@@ -5,7 +5,23 @@
 访问密码：jMcv
 有效期限截止：2020-2-27
  
- 
+#### Week 2: chapter 8 -- data integrity, privacy and security
+##### Day 1: 8.01-8.03 
+Homework: worksheet 1, worksheet 2(optional)
+
+##### Day 2: 8.04 data validation and verification
+Homework: 
+* 1. Print out the worksheet of ch8 past papers and write on it as in an exam.  ddl:Feb 28 8am
+* 2. Algorithm and program, ddl: Sunday Mar 1st 6pm
+   ** [code] Implement parity check- odd parity
+   ** [code] Implement parity check with autocorrection-odd parity
+   ** [code] Implement check sum
+   ** [code] Implement ISBN check check digit, see the doc I sent you.
+   ** submit your code here: Andy,Brian,	Cathy,	Daniel,	Harry,	Jack,	James,	Julian,	Lisa,	Nico,	Shirley
+
+##### Day 3: review lesson
+
+
 #### Week 1: paper 2 pre-release material 
 [2020 AS CS paper 2 pre-release material](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/section%202/9608_S20_PM_23.pdf)
 ##### Day 1: Task 1 Pre-Release material- Key Focus: Structure Charts  [compiled past paper questions](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/section%202/structureCharts-qp.pdf)
