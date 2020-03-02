@@ -18,7 +18,7 @@ Homework:
    *  [code] Implement check sum
    *  [code] Implement ISBN check check digit, see the doc I sent you.
    
-   -- submit your code here: [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2020-3-1),Brian,	Cathy,	Daniel,	Harry,	[Jack](https://github.com/jyd1222/Jack-s-homework/tree/master),	James,	[Julian](https://github.com/GodspeedyJulian/3.1),	[Lisa](https://github.com/ZeroxAlone/200301),	[Nico](https://github.com/jby0107/Homework/tree/2020.3.1),	Shirley
+   -- submit your code here: [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2020-3-1),Brian,	Cathy,	Daniel,	Harry,	[Jack](https://github.com/jyd1222/Jack-s-homework/tree/master),	James,	[Julian](https://github.com/GodspeedyJulian/3.1),	[Lisa](https://github.com/ZeroxAlone/200301),	[Nico](https://github.com/jby0107/Homework/tree/2020.3.1),	[Shirley](https://github.com/ShirleyAiko/S2/tree/S2Spring/Week2)
 
 ##### Day 3: review lesson
 
