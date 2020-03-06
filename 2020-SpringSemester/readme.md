@@ -13,8 +13,9 @@ Homework: mindmap and past paper question exercise
 Homework: worksheet 
 
 ##### Day 3: Ch10 -- relational database + E-R diagram
-Homework: worksheet 3 questions
+Homework: worksheet 3 questions, written paper submit to wechat group, code submit below:
 * submit question 3 implementation python code: Andy, Brian,	Cathy,	Daniel,	Harry,	Jack,	James,	Julian,	Lisa,	Nico,	Shirley
+* ddl: Mar 8 6pm
 
 
 
