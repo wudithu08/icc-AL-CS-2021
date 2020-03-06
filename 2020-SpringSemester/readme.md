@@ -6,7 +6,7 @@
 有效期限截止：2020-2-27
 
 #### Week 3: chapter 10 -- database
-##### Day 1: review of Ch8 and reading for <Nine algorithm>
+##### Day 1: review of Ch8 and reading for "Nine algorithms"
 Homework: mindmap and past paper question exercise
 
 ##### Day 2: Ch10 -- 10.01-10.03
