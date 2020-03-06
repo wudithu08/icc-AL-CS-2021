@@ -4,7 +4,20 @@
 * lesson materials can be downloaded from here： http://pan.rdfz.cn:80/#/link/F8F8CD54A002E3D23CA6A4D82968AFA0
 访问密码：jMcv
 有效期限截止：2020-2-27
- 
+
+#### Week 3: chapter 10 -- database
+##### Day 1: review of Ch8 and reading for <Nine algorithm>
+Homework: mindmap and past paper question exercise
+
+##### Day 2: Ch10 -- 10.01-10.03
+Homework: worksheet 
+
+##### Day 3: Ch10 -- relational database + E-R diagram
+Homework: worksheet 3 questions
+* submit question 3 implementation python code: Andy, Brian,	Cathy,	Daniel,	Harry,	Jack,	James,	Julian,	Lisa,	Nico,	Shirley
+
+
+
 #### Week 2: chapter 8 -- data integrity, privacy and security
 ##### Day 1: 8.01-8.03 
 Homework: worksheet 1, worksheet 2(optional)
