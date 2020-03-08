@@ -14,7 +14,7 @@ Homework: worksheet
 
 ##### Day 3: Ch10 -- relational database + E-R diagram
 Homework: worksheet 3 questions, written paper submit to wechat group, code submit below:
-* submit question 3 implementation python code: [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2020-3-8), Brian,	Cathy,	Daniel,	Harry,	Jack,	James,	[Julian](https://github.com/GodspeedyJulian/3.8),	[Lisa](https://github.com/ZeroxAlone/200306),	[Nico](https://github.com/jby0107/Homework/tree/2020.3.8),	[Shirley](https://github.com/ShirleyAiko/S2/blob/S2Spring/Week3/0338_exercise.py)
+* submit question 3 implementation python code: [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2020-3-8), [Brian](https://github.com/BrianShan974/Hello-World/tree/0308),	Cathy,	Daniel,	Harry,	Jack,	James,	[Julian](https://github.com/GodspeedyJulian/3.8),	[Lisa](https://github.com/ZeroxAlone/200306),	[Nico](https://github.com/jby0107/Homework/tree/2020.3.8),	[Shirley](https://github.com/ShirleyAiko/S2/blob/S2Spring/Week3/0338_exercise.py)
 * ddl: Mar 8 6pm
 
 
