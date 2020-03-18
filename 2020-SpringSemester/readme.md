@@ -5,6 +5,49 @@
 访问密码：jMcv
 有效期限截止：2020-2-27
 
+
+#### Week 5: chapter 10 -- database + exercises
+##### Day 1: SQL more
+Homework: worksheet 0316
+
+##### Day 2: database features + past paper questions
+Homework: worksheet 0317
+
+##### Day 3: self-learning
+Review Ch8 and Ch10 to prepare for the exams, recommended materials:
+* slides 
+* syllabus 
+* all worksheets
+* past paper questions
+* coursebook
+
+
+#### Week 4: chapter 10 -- database
+##### Day 1: E-R diagram
+Homework: worksheet0309
+
+##### Day 2: normalization + SQL
+Homework: sqlzoo.net  learn and quiz 
+  – learn
+  • https://sqlzoo.net/wiki/CREATE_TABLE
+  • https://sqlzoo.net/wiki/ALTER
+  • https://sqlzoo.net/wiki/SELECT_basics
+  • https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial
+  • https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial
+  • https://sqlzoo.net/wiki/The_JOIN_operation
+  • https://sqlzoo.net/wiki/INSERT_.._VALUES
+  • https://sqlzoo.net/wiki/UPDATE
+  • https://sqlzoo.net/wiki/DELETE
+  – Quiz
+  • https://sqlzoo.net/wiki/SELECT_Quiz
+  • https://sqlzoo.net/wiki/BBC_QUIZ
+  • https://sqlzoo.net/wiki/Nobel_Quiz
+  • https://sqlzoo.net/wiki/JOIN_Quiz
+
+##### Day 3: SQL 
+Homework: worksheet0313
+
+
 #### Week 3: chapter 10 -- database
 ##### Day 1: review of Ch8 and reading for "Nine algorithms"
 Homework: mindmap and past paper question exercise
