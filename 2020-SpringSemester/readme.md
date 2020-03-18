@@ -16,7 +16,10 @@ Review Ch8 and Ch10 to prepare for the exams, recommended materials:
 * all worksheets
 * past paper questions
 * coursebook
-* You can download materials from here: 
+* You can download materials from here: http://pan.rdfz.cn:80/#/link/D396854CE99D64557161E750CE141391
+访问密码：y8lR
+有效期限截止：2020-4-2
+
 
 #### Week 4: chapter 10 -- database
 ##### Day 1: E-R diagram
