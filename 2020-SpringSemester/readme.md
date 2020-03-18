@@ -1,10 +1,6 @@
 ### Your target in 2020 May CS exam is 90% 
-* [teaching plan for the first two weeks](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/section%202/A%20Level%20Computer%20Science%20OLP%20CSAS-2.docx)
+##### [Note!]Your homework submission can be found here: https://shimo.im/sheets/TcJ68QqvCW69qJGc/MODOC  
 * past papers can be downloaded from here: https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Computer%20Science%20(9608)/ 
-* lesson materials can be downloaded from here： http://pan.rdfz.cn:80/#/link/F8F8CD54A002E3D23CA6A4D82968AFA0
-访问密码：jMcv
-有效期限截止：2020-2-27
-
 
 #### Week 5: chapter 10 -- database + exercises
 ##### Day 1: SQL more
@@ -20,7 +16,7 @@ Review Ch8 and Ch10 to prepare for the exams, recommended materials:
 * all worksheets
 * past paper questions
 * coursebook
-
+* You can download materials from here: 
 
 #### Week 4: chapter 10 -- database
 ##### Day 1: E-R diagram
