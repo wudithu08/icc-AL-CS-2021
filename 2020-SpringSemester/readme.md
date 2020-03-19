@@ -2,6 +2,14 @@
 ##### [Note!]Your homework submission can be found here: https://shimo.im/sheets/TcJ68QqvCW69qJGc/MODOC  
 * past papers can be downloaded from here: https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Computer%20Science%20(9608)/ 
 
+### Week6: 2020 Mar 23-27 Summative + chapter 2
+#### Day 1:Topic 2
+##### Summative Assessment in P9 -- Topic 8+10
+#### Day 2: Topic 2
+
+#### Day 3: Topic 2
+
+
 #### Week 5: chapter 10 -- database + exercises
 ##### Day 1: SQL more
 Homework: worksheet 0316
