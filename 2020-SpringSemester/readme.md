@@ -28,6 +28,11 @@ Review Ch8 and Ch10 to prepare for the exams, recommended materials:
 访问密码：y8lR
 有效期限截止：2020-4-2
 
+Homework: 
+* 1. DIY a test paper by yourself, you can refer to past paper: https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Computer%20Science%20(9608)/ 
+* 2. complete it in a test environment
+* 3. mark it by yourself
+Submit your marked paper to the wechat group by 10pm Sunday ( Mar 22) 
 
 #### Week 4: chapter 10 -- database
 ##### Day 1: E-R diagram
