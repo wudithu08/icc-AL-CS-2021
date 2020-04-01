@@ -11,6 +11,7 @@ U can find ~~codes~~ guidance and help in the book. Download here: [BIBLE](https
 ### \*unhealthy content\*! ~~Submit~~ Post ur ~~Code~~ \*unhealthy content\* and ~~Video~~ av here : 
 ##### Can't find ur ~~\*unhealthy content\*~~ name? Add it or leave Harry a message
 ###### DO NOT EXPECT A REPLY!
+### [FABs](https://github.com/haoyuF996/FABs) collection of Frequently Appearing Bugs with solutions
 
 ### Week6: 2020 Mar 23-27 Summative + chapter 2
 #### Day 1:Topic 2
