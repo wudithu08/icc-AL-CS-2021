@@ -8,7 +8,7 @@
 * Task 2: Create an email system that perform the following two tasks: 1. get email list 2. create and send email
 * Task 3: Develope a ~~simple~~ chatting sytem, includinng client and server
 U can find ~~codes~~ guidance and help in the book. Download here: [BIBLE]()
-###\*unhealthy content\*! ~~Submit~~ Post ur ~~Code~~ \*unhealthy content\* and ~~Video~~ av here : 
+### \*unhealthy content\*! ~~Submit~~ Post ur ~~Code~~ \*unhealthy content\* and ~~Video~~ av here : 
 ##### Can't find ur ~~\*unhealthy content\*~~ name? Add it or leave Harry a message
 ###### DO NOT EXPECT A REPLY!
 
