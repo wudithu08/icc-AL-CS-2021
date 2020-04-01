@@ -2,7 +2,13 @@
 ##### [Note!]Your homework submission can be found here: https://shimo.im/sheets/TcJ68QqvCW69qJGc/MODOC  
 * past papers can be downloaded from here: https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Computer%20Science%20(9608)/ 
 ### Week7: 2020 Mar xx-xx
-#### \*unhealthy content\*! ~~Submit~~ Post ur ~~Code~~ \*unhealthy content\* and ~~Video~~ av here : 
+## ALL based on python
+#### 
+* Task 1: Make a webpage and perform enable local connection
+* Task 2: Create an email system that perform the following two tasks: 1. get email list 2. create and send email
+* Task 3: Develope a ~~simple~~ chatting sytem, includinng client and server
+U can find ~~codes~~ guidance and help in the book. Download here: [BIBLE]()
+\*unhealthy content\*! ~~Submit~~ Post ur ~~Code~~ \*unhealthy content\* and ~~Video~~ av here : 
 ##### Can't find ur ~~\*unhealthy content\*~~ name? Add it or leave Harry a message
 ###### DO NOT EXPECT A REPLY!
 
