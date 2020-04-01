@@ -7,7 +7,7 @@
 * Task 1: Make a webpage and perform enable local connection
 * Task 2: Create an email system that perform the following two tasks: 1. get email list 2. create and send email
 * Task 3: Develope a ~~simple~~ chatting sytem, includinng client and server
-U can find ~~codes~~ guidance and help in the book. Download here: [BIBLE]()
+U can find ~~codes~~ guidance and help in the book. Download here: [BIBLE](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/%E5%BF%85%E4%BF%AE2-%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F.pdf)
 ### \*unhealthy content\*! ~~Submit~~ Post ur ~~Code~~ \*unhealthy content\* and ~~Video~~ av here : 
 ##### Can't find ur ~~\*unhealthy content\*~~ name? Add it or leave Harry a message
 ###### DO NOT EXPECT A REPLY!
