@@ -2,8 +2,9 @@
 ##### [Note!]Your homework submission can be found here: https://shimo.im/sheets/TcJ68QqvCW69qJGc/MODOC  
 * past papers can be downloaded from here: https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Computer%20Science%20(9608)/ 
 ### Week7: 2020 Mar xx-xx
-#### \*unhealthy content\*! ~~Submit~~ Post ur ~~Code~~ \*unhealthy content\* and ~~Video~~ av here : [Andy],	[Cathy],	Daniel,	[Harry],	Jack,	James,	[Julian],	[Lisa],	[Nico],	[Shirley]
-
+#### \*unhealthy content\*! ~~Submit~~ Post ur ~~Code~~ \*unhealthy content\* and ~~Video~~ av here : 
+##### Can't find ur ~~\*unhealthy content\*~~ name? Add it or leave Harry a message
+###### DO NOT EXPECT A REPLY!
 
 ### Week6: 2020 Mar 23-27 Summative + chapter 2
 #### Day 1:Topic 2
