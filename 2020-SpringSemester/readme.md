@@ -1,7 +1,14 @@
 ### Your target in 2020 May CS exam is 90% 
 ##### [Note!]Your homework submission can be found here: https://shimo.im/sheets/TcJ68QqvCW69qJGc/MODOC  
 * past papers can be downloaded from here: https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Computer%20Science%20(9608)/ 
+* Lesson slides and worksheets can be found here:http://pan.rdfz.cn:80/#/link/0155331D668225DFE3208314112C7419
+访问密码：RUuy
+有效期限截止：2020-4-17
+
+
 ### Week7: 2020 Mar 30- Apr 3
+
+#### Day 1: Topic 2 homework
 ## Web programming -- ALL based on python [it is a PA]
 * 请大家把代码传到github上，把自己录得视频传到b站上（或者其它可以通过链接访问到额地方），链接也放到github上。作为你们课程的evidence，这项作业我也作为一次PA给成绩，ddl 延到下周二4.7日早8点（交的越早越好）。
 #### 
@@ -16,6 +23,13 @@ U can find ~~codes~~ guidance and help in the book. Download here: [BIBLE](https
 
 * submit your code here: [Nico](https://github.com/jby0107/Homework/tree/2020.4.2) ,[Cathy](https://github.com/CathyYang1118/2020-1/tree/Apr.HW),[Lisa](https://github.com/ZeroxAlone/200402), Harry, Brian, Shirley, Daniel, Jack, Julian, Andy, James
 * Submit your video here: Nico, Cathy, Lisa, Harry, Brian, Shirley, Daniel, Jack, Julian, Andy, James
+
+#### Day 2: Topic 2
+Homework: worksheet0402
+
+#### Day 3: Topic 3
+Homework: worksheet0403
+
 
 ### Week6: 2020 Mar 23-27 Summative + chapter 2
 #### Day 1:Topic 2
