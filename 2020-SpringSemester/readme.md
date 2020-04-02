@@ -2,7 +2,8 @@
 ##### [Note!]Your homework submission can be found here: https://shimo.im/sheets/TcJ68QqvCW69qJGc/MODOC  
 * past papers can be downloaded from here: https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Computer%20Science%20(9608)/ 
 ### Week7: 2020 Mar 30- Apr 3
-## Web programming -- ALL based on python
+## Web programming -- ALL based on python [it is a PA]
+* 请大家把代码传到github上，把自己录得视频传到b站上（或者其它可以通过链接访问到额地方），链接也放到github上。作为你们课程的evidence，这项作业我也作为一次PA给成绩，ddl 延到下周二4.7日早8点（交的越早越好）。
 #### 
 * Task 1: Make a webpage and perform enable local connection
 * Task 2: Create an email system that perform the following two tasks: 1. get email list 2. create and send email
@@ -14,6 +15,7 @@ U can find ~~codes~~ guidance and help in the book. Download here: [BIBLE](https
 #### [FABs](https://github.com/haoyuF996/FABs) collection of Frequently Appearing Bugs with solutions
 
 * submit your code here: [Nico](https://github.com/jby0107/Homework/tree/2020.4.2) ,[Cathy](https://github.com/CathyYang1118/2020-1/tree/Apr.HW),[Lisa](https://github.com/ZeroxAlone/200402), Harry, Brian, Shirley, Daniel, Jack, Julian, Andy, James
+* Submit your video here: Nico, Cathy, Lisa, Harry, Brian, Shirley, Daniel, Jack, Julian, Andy, James
 
 ### Week6: 2020 Mar 23-27 Summative + chapter 2
 #### Day 1:Topic 2
