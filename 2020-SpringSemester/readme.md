@@ -1,8 +1,8 @@
 ### Your target in 2020 May CS exam is 90% 
 ##### [Note!]Your homework submission can be found here: https://shimo.im/sheets/TcJ68QqvCW69qJGc/MODOC  
 * past papers can be downloaded from here: https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Computer%20Science%20(9608)/ 
-### Week7: 2020 Mar xx-xx
-## ALL based on python
+### Week7: 2020 Mar 30- Apr 3
+## Web programming -- ALL based on python
 #### 
 * Task 1: Make a webpage and perform enable local connection
 * Task 2: Create an email system that perform the following two tasks: 1. get email list 2. create and send email
@@ -12,7 +12,8 @@ U can find ~~codes~~ guidance and help in the book. Download here: [BIBLE](https
 ##### Can't find ur ~~\*unhealthy content\*~~ name? Add it or leave Harry a message
 ###### DO NOT EXPECT A REPLY!
 #### [FABs](https://github.com/haoyuF996/FABs) collection of Frequently Appearing Bugs with solutions
-[Nico](https://github.com/jby0107/Homework/tree/2020.4.2) ,[Cathy](https://github.com/CathyYang1118/2020-1/tree/Apr.HW),[Lisa](https://github.com/ZeroxAlone/200402)
+
+* submit your code here: [Nico](https://github.com/jby0107/Homework/tree/2020.4.2) ,[Cathy](https://github.com/CathyYang1118/2020-1/tree/Apr.HW),[Lisa](https://github.com/ZeroxAlone/200402), Harry, Brian, Shirley, Daniel, Jack, Julian, Andy, James
 
 ### Week6: 2020 Mar 23-27 Summative + chapter 2
 #### Day 1:Topic 2
