@@ -29,6 +29,10 @@ Homework: worksheet0402
 
 #### Day 3: Topic 3
 Homework: worksheet0403
+submit to: http://pan.rdfz.cn:80/#/link/9CA4F2AEA85095214BA7AC0CD0DB64D8
+访问密码：5q4K
+ddl: 2020 Apr 9th 8am.
+
 
 
 ### Week6: 2020 Mar 23-27 Summative + chapter 2
