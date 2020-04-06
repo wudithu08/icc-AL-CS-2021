@@ -21,8 +21,8 @@ U can find ~~codes~~ guidance and help in the book. Download here: [BIBLE](https
 ###### DO NOT EXPECT A REPLY!
 #### [FABs](https://github.com/haoyuF996/FABs) collection of Frequently Appearing Bugs with solutions
 
-* submit your code here: [Nico](https://github.com/jby0107/Homework/tree/2020.4.2) ,[Cathy](https://github.com/CathyYang1118/2020-1/tree/Apr.HW),[Lisa](https://github.com/ZeroxAlone/200402), Harry, Brian, Shirley, [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/4.5/email), [Jack](https://github.com/jyd1222/Jack-s-homework/blob/Daily-HK/%E9%82%AE%E4%BB%B6%E8%AF%BB%E5%86%99%26%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F), [Julian](https://github.com/GodspeedyJulian/4.6), Andy, James
-* Submit your video here: [Nico](https://www.bilibili.com/video/BV1zk4y1976u/), Cathy, Lisa, Harry, Brian, Shirley, Daniel, [Jack](https://github.com/jyd1222/Jack-s-homework/blob/master/1080p.mov), [Julian](https://github.com/GodspeedyJulian/4.6video), Andy, James
+* submit your code here: [Nico](https://github.com/jby0107/Homework/tree/2020.4.2) ,[Cathy](https://github.com/CathyYang1118/2020-1/tree/Apr.HW), [Lisa](https://github.com/ZeroxAlone/200402), Harry, Brian, Shirley, [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/4.5/email), [Jack](https://github.com/jyd1222/Jack-s-homework/blob/Daily-HK/%E9%82%AE%E4%BB%B6%E8%AF%BB%E5%86%99%26%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F), [Julian](https://github.com/GodspeedyJulian/4.6), Andy, James
+* Submit your video here: [Nico](https://www.bilibili.com/video/BV1zk4y1976u/), Cathy, [Lisa](https://github.com/ZeroxAlone/200402video/blob/master/20200406-234217.mp4), Harry, Brian, Shirley, Daniel, [Jack](https://github.com/jyd1222/Jack-s-homework/blob/master/1080p.mov), [Julian](https://github.com/GodspeedyJulian/4.6video), Andy, James
 
 #### Day 2: Topic 2
 Homework: worksheet0402
