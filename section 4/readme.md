@@ -20,4 +20,5 @@
     *  Part B: http://openbookproject.net/thinkcs/python/english3e/classes_and_objects_I.html
       * (B.1)Complete 15.12. Exercises question 5 and question 6.
 
-* Submit your homework: Andy, Brian, Cathy, Daniel, Harry, Jack, Julian, Lisa, Nico, Shirley, if your file is too big to upload, please upload to 
+* Submit your homework: Andy, Brian, Cathy, Daniel, Harry, Jack, Julian, Lisa, Nico, Shirley, if your file is too big to upload, please upload to http://pan.rdfz.cn:80/#/link/C599F114C07D98D07E141355EFEFED35,  访问密码：fzrK
+
