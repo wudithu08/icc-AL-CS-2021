@@ -10,7 +10,7 @@
 ##### June 8,2020 
 * Introduction to OOP
 * Key points: programming paradigms, POP, OOP, classes, object, instance, constructor, attributes, methods, inheritance, polymophism, aggregation, class diagram. 
-* slides
+* [slides](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/section%204/files/OOP-ch27-June8.pdf)
 * interactice python classes and objects:  https://levjj.github.io/thinkcspy/CMPS5P/l15.html 
 * homework: Programming practice --- ddl  June 11 Thursday 8am
    *  Part A: https://levjj.github.io/thinkcspy/CMPS5P/l15.html 
