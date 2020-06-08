@@ -19,3 +19,5 @@
      * (A.3) Write python code for exercise 15.11. Please write the code all by yourself first! Submit the python code + the screenshots of your running results in your own IDE.
     *  Part B: http://openbookproject.net/thinkcs/python/english3e/classes_and_objects_I.html
       * (B.1)Complete 15.12. Exercises question 5 and question 6.
+
+* Submit your homework: Andy, Brian, Cathy, Daniel, Harry, Jack, Julian, Lisa, Nico, Shirley  
