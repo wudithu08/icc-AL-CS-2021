@@ -12,8 +12,7 @@
 * Key points: programming paradigms, POP, OOP, classes, object, instance, constructor, attributes, methods, inheritance, polymophism, aggregation, class diagram. 
 * slides
 * interactice python classes and objects:  https://levjj.github.io/thinkcspy/CMPS5P/l15.html 
-* homework: ddl  June 11 Thursday 8am
-   * Programming practice: 
+* homework: Programming practice --- ddl  June 11 Thursday 8am
    *  Part A: https://levjj.github.io/thinkcspy/CMPS5P/l15.html 
     *  (A.1) complete 15.4,15.5, 15.6, 15.7, 15.8, 15.9 by running all the online code with codelens on(step running) to see what happened behind the code. Please save the screenshots of your running for each program in a word document. Submit the document.
      * (A.2) Study 15.10 for all key terms.  Next lesson we will have a quiz on the concepts.
