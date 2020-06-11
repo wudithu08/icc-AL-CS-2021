@@ -6,6 +6,17 @@
 * demonstrate an ability to write code that demonstrates the use of classes, inheritance,
 * polymorphism and containment (aggregation)
 
+##### June 11, 2020
+* review https://levjj.github.io/thinkcspy/CMPS5P/l15.html 
+* MIT course--objects and classes: https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/courseware/Week_6/videosequence:Lecture_10/?activate_block_id=block-v1%3AMITx%2B6.00.1x_7%2B3T2015%2Btype%40sequential%2Bblock%40videosequence%3ALecture_10  s1, s2
+* online quiz: https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAANdXjVVUQTQ2SUpWRjNWQTYwSENDRk02STJIQVdJUi4u 
+* online quiz: https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAANdXjVVUNDRWTDZWV05OT05MRU9ZUURRRlVaRlk5Wi4u 
+* MIT course-- inheritance: https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/course/#block-v1:MITx+6.00.1x_7+3T2015+type@sequential+block@videosequence:Lecture_11 
+* Homework ddl: June 12 8am
+  * https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/courseware/Week_6/videosequence:Lecture_10/?activate_block_id=block-v1%3AMITx%2B6.00.1x_7%2B3T2015%2Btype%40sequential%2Bblock%40videosequence%3ALecture_10 
+  * https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/courseware/Week_6/videosequence:Lecture_10/?activate_block_id=block-v1%3AMITx%2B6.00.1x_7%2B3T2015%2Btype%40sequential%2Bblock%40videosequence%3ALecture_10 
+  * https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/courseware/Week_6/videosequence:Lecture_10/?activate_block_id=block-v1%3AMITx%2B6.00.1x_7%2B3T2015%2Btype%40sequential%2Bblock%40videosequence%3ALecture_10
+  * https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/courseware/Week_6/videosequence:Lecture_10/?activate_block_id=block-v1%3AMITx%2B6.00.1x_7%2B3T2015%2Btype%40sequential%2Bblock%40videosequence%3ALecture_10
 
 ##### June 8,2020 
 * Introduction to OOP
