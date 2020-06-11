@@ -20,5 +20,5 @@
     *  Part B: http://openbookproject.net/thinkcs/python/english3e/classes_and_objects_I.html
       * (B.1)Complete 15.12. Exercises question 5 and question 6.
 
-* Submit your homework: [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2020-06-10), Brian, Cathy, [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/ObjectProgrammingEX15_11), Harry, Jack, [Julian](https://github.com/GodspeedyJulian/6.10), [Lisa](https://github.com/ZeroxAlone/200611), [Nico](https://github.com/jby0107/Homework/tree/2020.6.8), Shirley, if your file is too big to upload, please upload to http://pan.rdfz.cn:80/#/link/C599F114C07D98D07E141355EFEFED35,  访问密码：fzrK
+* Submit your homework: [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2020-06-10), Brian, Cathy, [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/ObjectProgrammingEX15_11), Harry, [Jack](https://github.com/jyd1222/Jack-s-homework/tree/OOP), [Julian](https://github.com/GodspeedyJulian/6.10), [Lisa](https://github.com/ZeroxAlone/200611), [Nico](https://github.com/jby0107/Homework/tree/2020.6.8), Shirley, if your file is too big to upload, please upload to http://pan.rdfz.cn:80/#/link/C599F114C07D98D07E141355EFEFED35,  访问密码：fzrK
 
