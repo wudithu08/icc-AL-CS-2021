@@ -16,6 +16,7 @@
   * [MIT course lecture 11](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/courseware/Week_6/videosequence:Lecture_10/?activate_block_id=block-v1%3AMITx%2B6.00.1x_7%2B3T2015%2Btype%40sequential%2Bblock%40videosequence%3ALecture_10) problem 3,4,5
   * [MIT course lecture 12](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/courseware/Week_6/videosequence:Lecture_11/?child=first) problem 1,2,3
   * submit the document contains all the screenshots of your work above to github, if too slow, please upload to http://pan.rdfz.cn:80/#/link/2E41DACA788612BFD5B4694EA9420C68, 访问密码：SPqW
+ Submit your homework: Andy, Brian,Cathy, Daniel, Harry, Jack,Julian,Lisa,Nico, Shirley,
 
   
 ##### June 8,2020 
