@@ -12,7 +12,7 @@
 * Class assignment #3: 10 minutes. write code about the LibraryItem, Book, CD classes. Book and CD inherite from LibraryItem. Submit your work: http://pan.rdfz.cn:80/#/link/D926E9F11FC02349B3A08E3F5856CA4C, 访问密码：c8GN
 * online Quiz #2: 10 mins, Point3D which inherites Point2D. submit your work: http://pan.rdfz.cn:80/#/link/EA1EAE74020766A43F43F2CE1CEBAABB, 访问密码：Nj82
 
-* Homework: worksheet 
+* Homework: [worksheet](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/section%204/files/Worksheet%20OOP%20June%2012.pdf) 
  * Do the past paper questions in the worksheet.  
    
     (1) print, write on paper and scan to upload, submit to github link
