@@ -6,11 +6,12 @@
 * demonstrate an ability to write code that demonstrates the use of classes, inheritance,
 * polymorphism and containment (aggregation)
 ##### June 12, 2020
-* online quiz: Declaring a class: Point2D. submit your code.
-* Class assignment: Write code to （1）define the car class （2）Instantiate the class  （3）use the methods. Submit your code
-* Class assignment: write code about the company class
-* Class assignment: 10 minutes. write code about the LibraryItem, Book, CD classes. Book and CD inherite from LibraryItem.
-* online Quiz: 10 mins, Point3D which inherites Point2D.
+* online quiz #1: Declaring a class: Point2D. submit your work. http://pan.rdfz.cn:80/#/link/66EB0D84857B182B1CAFE8F4C334341E, 访问密码：IhFg 
+* Class assignment #1: Write code to （1）define the car class （2）Instantiate the class  （3）use the methods. Submit your work: http://pan.rdfz.cn:80/#/link/48BE94DF7434C512DA4FE403345E9390, 访问密码：2pB6
+* Class assignment #2: write code about the company class:Submit your work: http://pan.rdfz.cn:80/#/link/18ADBB6C59B0AFE927FC5D856EB142E5, 访问密码：8HNi
+* Class assignment #3: 10 minutes. write code about the LibraryItem, Book, CD classes. Book and CD inherite from LibraryItem. Submit your work: http://pan.rdfz.cn:80/#/link/D926E9F11FC02349B3A08E3F5856CA4C, 访问密码：c8GN
+* online Quiz #2: 10 mins, Point3D which inherites Point2D. submit your work: http://pan.rdfz.cn:80/#/link/EA1EAE74020766A43F43F2CE1CEBAABB, 访问密码：Nj82
+
 * Homework: worksheet 
  * Do the past paper questions in the worksheet.  
    
