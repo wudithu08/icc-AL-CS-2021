@@ -15,15 +15,9 @@
 * Homework: [worksheet](https://github.com/wudithu08/icc-AL-CS-2021/blob/master/section%204/files/Worksheet%20OOP%20June%2012.pdf) 
  * Do the past paper questions in the worksheet.  
    
-    (1) print, write on paper and scan to upload, submit to github link
-
-    (2) Write Code for the past paper questions, submit to github link
-
-    (3) Preview polymorphism, create a simple PPT to show the polymorphism you have implemented in the previous classes and homework. Explain with textboxes, why they are polymorphism. Submit to github link.
-
-
-
-
+    (1) print, write on paper and scan to upload, submit to github link：http://pan.rdfz.cn:80/#/link/12310368338C2E43758642C327BD6E27 访问密码：NAl2
+    (2) Write Code for the past paper questions, submit to github link： http://pan.rdfz.cn:80/#/link/C2CA494EB76AC9418110241D0323462C 访问密码：Y2UM
+    (3) Preview polymorphism, create a simple PPT to show the polymorphism you have implemented in the previous classes and homework. Explain with textboxes, why they are polymorphism. Submit to github link： http://pan.rdfz.cn:80/#/link/741BC2A7B9DB97ABDCAF88E15B3EE304， 访问密码：IwFA
 
 ##### June 11, 2020
 * review https://levjj.github.io/thinkcspy/CMPS5P/l15.html 
