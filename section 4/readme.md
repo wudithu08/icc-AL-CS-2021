@@ -5,6 +5,24 @@
 * demonstrate an ability to solve a problem by designing appropriate classes
 * demonstrate an ability to write code that demonstrates the use of classes, inheritance,
 * polymorphism and containment (aggregation)
+##### June 12, 2020
+* online quiz: Declaring a class: Point2D. submit your code.
+* Class assignment: Write code to （1）define the car class （2）Instantiate the class  （3）use the methods. Submit your code
+* Class assignment: write code about the company class
+* Class assignment: 10 minutes. write code about the LibraryItem, Book, CD classes. Book and CD inherite from LibraryItem.
+* online Quiz: 10 mins, Point3D which inherites Point2D.
+* Homework: worksheet 
+ * Do the past paper questions in the worksheet.  
+   
+    (1) print, write on paper and scan to upload, submit to github link
+
+    (2) Write Code for the past paper questions, submit to github link
+
+    (3) Preview polymorphism, create a simple PPT to show the polymorphism you have implemented in the previous classes and homework. Explain with textboxes, why they are polymorphism. Submit to github link.
+
+
+
+
 
 ##### June 11, 2020
 * review https://levjj.github.io/thinkcspy/CMPS5P/l15.html 
