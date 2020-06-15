@@ -32,7 +32,7 @@
   * [MIT course lecture 12](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/courseware/Week_6/videosequence:Lecture_11/?child=first) problem 1,2,3
   * submit the document contains all the screenshots of your work above to github, if too slow, please upload to http://pan.rdfz.cn:80/#/link/2E41DACA788612BFD5B4694EA9420C68, 访问密码：SPqW
 
-*Submit your homework: [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2020-06-11), Brian,Cathy, Daniel, Harry, [Jack,](https://github.com/jyd1222/Jack-s-homework/tree/OOP), [Julian](https://github.com/GodspeedyJulian/6.10), [Lisa](https://github.com/ZeroxAlone/200611)[Julian](https://github.com/GodspeedyJulian/6.11),[Lisa](https://github.com/ZeroxAlone/200611/blob/master/Doc3.docx),[Nico](https://github.com/jby0107/Homework/tree/2020.6.11), Shirley,
+*Submit your homework: [Andy](https://github.com/Loskiz/AS_CS_Assessment/tree/master/2020-06-11), Brian,Cathy, [Daniel](https://github.com/Yuudachi530/Assignment/tree/master/C8%20programming), Harry, [Jack,](https://github.com/jyd1222/Jack-s-homework/tree/OOP), [Julian](https://github.com/GodspeedyJulian/6.10), [Lisa](https://github.com/ZeroxAlone/200611)[Julian](https://github.com/GodspeedyJulian/6.11),[Lisa](https://github.com/ZeroxAlone/200611/blob/master/Doc3.docx),[Nico](https://github.com/jby0107/Homework/tree/2020.6.11), Shirley,
 
   
 ##### June 8,2020 
