@@ -5,6 +5,16 @@
 * demonstrate an ability to solve a problem by designing appropriate classes
 * demonstrate an ability to write code that demonstrates the use of classes, inheritance,
 * polymorphism and containment (aggregation)
+
+##### June 15, 2020
+* class assignment #1: Task 27.02 and Task 27.04, submit to: http://pan.rdfz.cn:80/#/link/C6D2B95C00A63E235EF2E3BA906FD67C, 访问密码：8ZiH
+* class assignment #2: Task 27.06, submit to:http://pan.rdfz.cn:80/#/link/91C72DDFE4EB7D4D6088CCD6DD638879, 访问密码：NV4z
+* class assignment #3: Exam style question Q1 textbook page 391, submit to: http://pan.rdfz.cn:80/#/link/DCA4A575D382A02E4D27771216EDF08D, 访问密码：rssP
+* class assignment #4: Exam style question Q2 textbook page 392, submit to:http://pan.rdfz.cn:80/#/link/7894047E12AF3E307F123B56BACD8730
+访问密码：Ch0V 
+* worksheet June 15 paper written submission:  http://pan.rdfz.cn:80/#/link/7E0BEE5C9F7C27905A74BA7921A6E381, 访问密码：3ChM
+* worksheet June 15 code submission: http://pan.rdfz.cn:80/#/link/4F08677DC8B36B02FE1BC70A2C93FC5B, 访问密码：OKVq
+
 ##### June 12, 2020
 * online quiz #1: Declaring a class: Point2D. submit your work. http://pan.rdfz.cn:80/#/link/66EB0D84857B182B1CAFE8F4C334341E, 访问密码：IhFg 
 * Class assignment #1: Write code to （1）define the car class （2）Instantiate the class  （3）use the methods. Submit your work: http://pan.rdfz.cn:80/#/link/48BE94DF7434C512DA4FE403345E9390, 访问密码：2pB6
