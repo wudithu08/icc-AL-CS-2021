@@ -6,7 +6,7 @@
 * demonstrate an ability to write code that demonstrates the use of classes, inheritance,
 * polymorphism and containment (aggregation)
 
-##### June 15, 2020
+##### June 15, 2020 Homework: ddl June 17 23:59pm
 * class assignment #1: Task 27.02 and Task 27.04, submit to: http://pan.rdfz.cn:80/#/link/C6D2B95C00A63E235EF2E3BA906FD67C, 访问密码：8ZiH
 * class assignment #2: Task 27.06, submit to:http://pan.rdfz.cn:80/#/link/91C72DDFE4EB7D4D6088CCD6DD638879, 访问密码：NV4z
 * class assignment #3: Exam style question Q1 textbook page 391, submit to: http://pan.rdfz.cn:80/#/link/DCA4A575D382A02E4D27771216EDF08D, 访问密码：rssP
