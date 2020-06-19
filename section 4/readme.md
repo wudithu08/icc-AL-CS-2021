@@ -5,6 +5,16 @@
 * demonstrate an ability to solve a problem by designing appropriate classes
 * demonstrate an ability to write code that demonstrates the use of classes, inheritance,
 * polymorphism and containment (aggregation)
+
+##### June 19，2020 Homework : ddl June 21  23:59pm
+* Complete worksheet June 19
+  * Print, write on paper and scan: http://pan.rdfz.cn:80/#/link/99197276A754422042F194380E1B6402 访问密码：CJh0 
+  * Program the whole problem: http://pan.rdfz.cn:80/#/link/19A9280B4A859B862B2D6D54E1F01AA2 访问密码：20L3 
+* Submit class assignment #1 and #2 if you haven’t done in class. 
+ * http://pan.rdfz.cn:80/#/link/07E12D33A06C4FF80EFDF1ED066B90AE 访问密码：dcP3
+ * http://pan.rdfz.cn:80/#/link/E1D96D067F64D512B1664DABB445D38B , 访问密码：1v6V 
+* Reflection of online quiz, http://pan.rdfz.cn:80/#/link/78FB44DDCD5128C7DCDC50E56C7DB7CD ,访问密码：CfGI 
+
 ##### June 18, 2020 Homework: ddl June 19 8am
 * prepare for class quiz June19 base on: https://thepythonguru.com/python-inheritance-and-polymorphism/ and https://www.programiz.com/python-programming/polymorphism 
 * worksheet(exercise June18) print, write and scan, then upload to http://pan.rdfz.cn:80/#/link/EBF1C6EC02078D57B181176A645A46EE
