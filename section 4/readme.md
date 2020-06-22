@@ -6,6 +6,12 @@
 * demonstrate an ability to write code that demonstrates the use of classes, inheritance,
 * polymorphism and containment (aggregation)
 
+##### June 22, 2020 Homework : ddl June 27  8pm
+* Please DO implement your own animal-food zoom computer simulation(see June 19 for re-submission)! It must be able to run correctly! 
+* Please do implement class assignment #1 and #2(see June 19 for re-submission), write your own test code to make sure they work as expected!
+* Please do complete all questions in worksheet "June22-Activity Task-OOP" (in wechat group) by writing on paper. submit to: http://pan.rdfz.cn:80/#/link/9B5BA4CB58314ACA034B4CD9D12A4EDE, 访问密码：blb7
+* Please do implement the whole project in "June22-Activity Task-OOP" using python. submit to: http://pan.rdfz.cn:80/#/link/C8C78E82FC3E6DED1F62E9B08197B37A, 访问密码：CMxP
+
 ##### June 19，2020 Homework : ddl June 21  23:59pm
 * Complete worksheet June 19
   * Print, write on paper and scan: http://pan.rdfz.cn:80/#/link/99197276A754422042F194380E1B6402 访问密码：CJh0 
