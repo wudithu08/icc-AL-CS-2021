@@ -1,4 +1,21 @@
 ## Paper 4: Further Problem-solving and Programming Skills
+
+### Holiday homework: ddl -- Aug 27 23:59pm 
+* Material Download Link: http://pan.rdfz.cn:80/#/link/AC1453C19E5A0E0357E32C614AA4D305 访问密码：utO0
+#### OOP task: holiday work.pdf
+* Answer questions on paper, scan and upload: http://pan.rdfz.cn:80/#/link/0B29B50D8BA5705475A3B3CE1406D6B3  访问密码：nEME 
+* Write code to implement all, upload your code: http://pan.rdfz.cn:80/#/link/1DCA0C6C381880C605A1F8861DCE6202 访问密码：Y87g 
+#### Low level task: LabCH11-low-level-languages + Super Simple CPU
+* Complete all the exercises of the lab, write the complete lab report. 
+* You need to write code and run you code in Super Simple CPU.jar
+* Submit the complete lab report: http://pan.rdfz.cn:80/#/link/758ECAD214ADB70AD65D3500679E5588 访问密码：3Yz9 
+
+
+
+
+### chapter 28: Low level programming
+
+
 ### chapter 27: OOP -- object oriented programming
 ##### syllabus requirments: 
 * -- object-oriented programming (OOP)
